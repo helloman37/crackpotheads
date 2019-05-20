@@ -1,139 +1,135 @@
-#EXTM3U
-#EXTINF:-1,UK: BBC One
-http://hd.007iptv.com:2095/live/1234/4321/628.m3u8
-#EXTINF:-1,UK: BBC Two
-http://hd.007iptv.com:2095/live/1234/4321/627.m3u8
-#EXTINF:-1,UK: CHANNEL 4 HD
-http://hd.007iptv.com:2095/live/1234/4321/622.m3u8
-#EXTINF:-1,UK: CHANNEL 5 HD
-http://hd.007iptv.com:2095/live/1234/4321/621.m3u8
-#EXTINF:-1,UK: iTV1 HD
-http://hd.007iptv.com:2095/live/1234/4321/626.m3u8
-#EXTINF:-1,UK: iTV2 HD
-http://hd.007iptv.com:2095/live/1234/4321/625.m3u8
-#EXTINF:-1,UK: iTV3 HD
-http://hd.007iptv.com:2095/live/1234/4321/624.m3u8
-#EXTINF:-1,UK: iTV4 HD
-http://hd.007iptv.com:2095/live/1234/4321/623.m3u8
-#EXTINF:-1,UK: E!
-http://hd.007iptv.com:2095/live/1234/4321/7277.m3u8
-#EXTINF:-1,UK: === Uk News ===
-http://hd.007iptv.com:2095/live/1234/4321/619.m3u8
-#EXTINF:-1,UK: BBC News HD
-http://hd.007iptv.com:2095/live/1234/4321/629.m3u8
-#EXTINF:-1,UK: CNN
-http://hd.007iptv.com:2095/live/1234/4321/618.m3u8
-#EXTINF:-1,UK: Sky News
-http://hd.007iptv.com:2095/live/1234/4321/617.m3u8
-#EXTINF:-1,UK: ===Sky UK Movies===
-http://hd.007iptv.com:2095/live/1234/4321/600.m3u8
-#EXTINF:-1,UK: Sky Cinema Action & Adventure
-http://hd.007iptv.com:2095/live/1234/4321/598.m3u8
-#EXTINF:-1,UK: Sky Cinema Comedy
-http://hd.007iptv.com:2095/live/1234/4321/597.m3u8
-#EXTINF:-1,UK: Sky Cinema Crime & Thriller
-http://hd.007iptv.com:2095/live/1234/4321/606.m3u8
-#EXTINF:-1,UK: Sky Cinema Disney
-http://hd.007iptv.com:2095/live/1234/4321/596.m3u8
-#EXTINF:-1,UK: Sky Cinema Drama & Romance
-http://hd.007iptv.com:2095/live/1234/4321/595.m3u8
-#EXTINF:-1,UK: Sky Cinema Greats
-http://hd.007iptv.com:2095/live/1234/4321/592.m3u8
-#EXTINF:-1,UK: Sky Cinema Hits
-http://hd.007iptv.com:2095/live/1234/4321/593.m3u8
-#EXTINF:-1,UK: Sky Cinema Premiere
-http://hd.007iptv.com:2095/live/1234/4321/599.m3u8
-#EXTINF:-1,UK: Sky Cinema Sci Fi & Horror
-http://hd.007iptv.com:2095/live/1234/4321/591.m3u8
-#EXTINF:-1,UK: Sky Cinema Select
-http://hd.007iptv.com:2095/live/1234/4321/607.m3u8
-#EXTINF:-1,UK: Sky Movies Family
-http://hd.007iptv.com:2095/live/1234/4321/594.m3u8
-#EXTINF:-1,UK: Sky Atlantic UK
-http://hd.007iptv.com:2095/live/1234/4321/590.m3u8
-#EXTINF:-1,UK: Sky 1
-http://hd.007iptv.com:2095/live/1234/4321/620.m3u8
-#EXTINF:-1,UK: === Sky Uk & BT Sports ===
-http://hd.007iptv.com:2095/live/1234/4321/616.m3u8
-#EXTINF:-1,UK: Sky Sports Action HD
-http://hd.007iptv.com:2095/live/1234/4321/610.m3u8
-#EXTINF:-1,UK: Sky Sports Arena HD
-http://hd.007iptv.com:2095/live/1234/4321/609.m3u8
-#EXTINF:-1,UK: Sky Sports Cricket HD
-http://hd.007iptv.com:2095/live/1234/4321/608.m3u8
-#EXTINF:-1,UK: Sky Sports F1
-http://hd.007iptv.com:2095/live/1234/4321/604.m3u8
-#EXTINF:-1,UK: Sky Sports Football
-http://hd.007iptv.com:2095/live/1234/4321/613.m3u8
-#EXTINF:-1,UK: Sky Sports Main Event
-http://hd.007iptv.com:2095/live/1234/4321/612.m3u8
-#EXTINF:-1,UK: Sky Sports Mix
-http://hd.007iptv.com:2095/live/1234/4321/605.m3u8
-#EXTINF:-1,UK: Sky Sports News
-http://hd.007iptv.com:2095/live/1234/4321/615.m3u8
-#EXTINF:-1,UK: Sky Sports Premier League
-http://hd.007iptv.com:2095/live/1234/4321/614.m3u8
-#EXTINF:-1,UK: Sky Sports The Open HD
-http://hd.007iptv.com:2095/live/1234/4321/611.m3u8
-#EXTINF:-1,UK: BT Sport 1 HD
-http://hd.007iptv.com:2095/live/1234/4321/603.m3u8
-#EXTINF:-1,UK: BT Sport 2 HD
-http://hd.007iptv.com:2095/live/1234/4321/602.m3u8
-#EXTINF:-1,UK: BT Sport ESPN
-http://hd.007iptv.com:2095/live/1234/4321/601.m3u8
-#EXTINF:-1,UK: === Sky Uk Documentary ===
-http://hd.007iptv.com:2095/live/1234/4321/589.m3u8
-#EXTINF:-1,UK: Discovery HD UK
-http://hd.007iptv.com:2095/live/1234/4321/588.m3u8
-#EXTINF:-1,UK: Discovery History
-http://hd.007iptv.com:2095/live/1234/4321/585.m3u8
-#EXTINF:-1,UK: National Geographic HD
-http://hd.007iptv.com:2095/live/1234/4321/587.m3u8
-#EXTINF:-1,UK: === UK Kids ===
-http://hd.007iptv.com:2095/live/1234/4321/583.m3u8
-#EXTINF:-1,UK: Disney Junior UK
-http://hd.007iptv.com:2095/live/1234/4321/581.m3u8
-#EXTINF:-1,UK: Disney XD UK
-http://hd.007iptv.com:2095/live/1234/4321/582.m3u8
-#EXTINF:-1,UK: Nick Junior
-http://hd.007iptv.com:2095/live/1234/4321/580.m3u8
-#EXTINF:-1,****USA****
-http://hd.007iptv.com:2095/live/1234/4321/4700.m3u8
-#EXTINF:-1,USA: ABC HD
-http://hd.007iptv.com:2095/live/1234/4321/4699.m3u8
-#EXTINF:-1,USA: AMC
-http://hd.007iptv.com:2095/live/1234/4321/4691.m3u8
-#EXTINF:-1,USA: CW 11 HD
-http://hd.007iptv.com:2095/live/1234/4321/4693.m3u8
-#EXTINF:-1,USA: TLC
-http://hd.007iptv.com:2095/live/1234/4321/4684.m3u8
-#EXTINF:-1,USA: TBS
-http://hd.007iptv.com:2095/live/1234/4321/4690.m3u8
-#EXTINF:-1,USA: CBS Action
-http://hd.007iptv.com:2095/live/1234/4321/4695.m3u8
-#EXTINF:-1,USA: CBS News
-http://hd.007iptv.com:2095/live/1234/4321/4694.m3u8
-#EXTINF:-1,USA: USA Network
-http://hd.007iptv.com:2095/live/1234/4321/4698.m3u8
-#EXTINF:-1,USA: Viceland HD
-http://hd.007iptv.com:2095/live/1234/4321/4687.m3u8
-#EXTINF:-1,USA: The Weather Channel
-http://hd.007iptv.com:2095/live/1234/4321/4681.m3u8
-#EXTINF:-1,USA: NBC (EAST)
-http://hd.007iptv.com:2095/live/1234/4321/4697.m3u8
-#EXTINF:-1,USA: Bravo HD
-http://hd.007iptv.com:2095/live/1234/4321/4688.m3u8
-#EXTINF:-1,USA: CNBC HD
-http://hd.007iptv.com:2095/live/1234/4321/4686.m3u8
-#EXTINF:-1,USA: CNN
-http://hd.007iptv.com:2095/live/1234/4321/4692.m3u8
-#EXTINF:-1,USA: COMEDY CENTRAL
-http://hd.007iptv.com:2095/live/1234/4321/4685.m3u8
-#EXTINF:-1,USA: Fox News
-http://hd.007iptv.com:2095/live/1234/4321/4696.m3u8
-#EXTINF:-1,USA: NFL Network HD
-http://hd.007iptv.com:2095/live/1234/4321/4683.m3u8
-#EXTINF:-1,USA: SPIKE TV
-http://hd.007iptv.com:2095/live/1234/4321/4689.m3u8
-#EXTINF:-1,USA: WWE Network
-http://hd.007iptv.com:2095/live/1234/4321/4680.m3u8
+#EXTM3U https://hdbox.ws/de/ 
+#EXTINF:-1,Us- Animal Planet HD
+http://m-iptv.net:6204/bella1/bella/10439
+#EXTINF:-1,Us- Bein Sports
+http://m-iptv.net:6204/bella1/bella/10646
+#EXTINF:-1,Us- BET HD
+http://m-iptv.net:6204/bella1/bella/10645
+#EXTINF:-1,Us- ABC US
+http://m-iptv.net:6204/bella1/bella/10440
+#EXTINF:-1,Us- A&E  US
+http://m-iptv.net:6204/bella1/bella/10441
+#EXTINF:-1,Us- Bloomberg US
+http://m-iptv.net:6204/bella1/bella/10436
+#EXTINF:-1,Us- Bravo HD
+http://m-iptv.net:6204/bella1/bella/10435
+#EXTINF:-1,Us- Cartoon Network US
+http://m-iptv.net:6204/bella1/bella/10434
+#EXTINF:-1,Us- CBS Sport HD
+http://m-iptv.net:6204/bella1/bella/10433
+#EXTINF:-1,Us- CBS US
+http://m-iptv.net:6204/bella1/bella/10432
+#EXTINF:-1,Us- CINEMAX HD
+http://m-iptv.net:6204/bella1/bella/10431
+#EXTINF:-1,Us- CNBC US
+http://m-iptv.net:6204/bella1/bella/10429
+#EXTINF:-1,Us- CNN US HD
+http://m-iptv.net:6204/bella1/bella/10428
+#EXTINF:-1,Us- Discovery Channel US HD
+http://m-iptv.net:6204/bella1/bella/10424
+#EXTINF:-1,Us- DISCOVERY FAMILY
+http://m-iptv.net:6204/bella1/bella/10423
+#EXTINF:-1,Us- Discovery Investigation
+http://m-iptv.net:6204/bella1/bella/10422
+#EXTINF:-1,Us- Discovery Science US HD
+http://m-iptv.net:6204/bella1/bella/10421
+#EXTINF:-1,Us- Disney Channel US
+http://m-iptv.net:6204/bella1/bella/10420
+#EXTINF:-1,Us- Disney Junior US
+http://m-iptv.net:6204/bella1/bella/10419
+#EXTINF:-1,Us- Fox sport 1 HD
+http://m-iptv.net:6204/bella1/bella/10416
+#EXTINF:-1,Us- Fox sport 2 HD
+http://m-iptv.net:6204/bella1/bella/10415
+#EXTINF:-1,Us- FX HD
+http://m-iptv.net:6204/bella1/bella/10414
+#EXTINF:-1,Us- GSN HD
+http://m-iptv.net:6204/bella1/bella/10412
+#EXTINF:-1,Us- HBO Comedy HD
+http://m-iptv.net:6204/bella1/bella/10411
+#EXTINF:-1,Us- HBO Signature
+http://m-iptv.net:6204/bella1/bella/10410
+#EXTINF:-1,Us- HBO US HD
+http://m-iptv.net:6204/bella1/bella/10409
+#EXTINF:-1,Us- HBO ZONE HD
+http://m-iptv.net:6204/bella1/bella/10408
+#EXTINF:-1,Us- HGTV HD
+http://m-iptv.net:6204/bella1/bella/10407
+#EXTINF:-1,Us- History
+http://m-iptv.net:6204/bella1/bella/10406
+#EXTINF:-1,Us- History HD US
+http://m-iptv.net:6204/bella1/bella/10405
+#EXTINF:-1,Us- Life Time HD
+http://m-iptv.net:6204/bella1/bella/10404
+#EXTINF:-1,Us- MTV HD US
+http://m-iptv.net:6204/bella1/bella/10403
+#EXTINF:-1,Us- Nat Geo Wild HD US
+http://m-iptv.net:6204/bella1/bella/10402
+#EXTINF:-1,Us- NatGeo HD USA
+http://m-iptv.net:6204/bella1/bella/10401
+#EXTINF:-1,Us- NBA HD
+http://m-iptv.net:6204/bella1/bella/10400
+#EXTINF:-1,Us- NBC EAST HD
+http://m-iptv.net:6204/bella1/bella/10399
+#EXTINF:-1,Us- NBCSN HD
+http://m-iptv.net:6204/bella1/bella/10398
+#EXTINF:-1,Us- NEWS 12
+http://m-iptv.net:6204/bella1/bella/10643
+#EXTINF:-1,Us- Nick Junior US
+http://m-iptv.net:6204/bella1/bella/10397
+#EXTINF:-1,Us- Nick Toons US
+http://m-iptv.net:6204/bella1/bella/10396
+#EXTINF:-1,Us- OWN HD
+http://m-iptv.net:6204/bella1/bella/10395
+#EXTINF:-1,Us- PAC-12 Arizona HD
+http://m-iptv.net:6204/bella1/bella/10642
+#EXTINF:-1,Us- PAC-12 Bay Area HD
+http://m-iptv.net:6204/bella1/bella/10641
+#EXTINF:-1,Us- PAC-12 Los Angeles HD
+http://m-iptv.net:6204/bella1/bella/10640
+#EXTINF:-1,Us- PAC-12 Mountain HD-
+http://m-iptv.net:6204/bella1/bella/10639
+#EXTINF:-1,Us- PAC-12 Oregon HD
+http://m-iptv.net:6204/bella1/bella/10638
+#EXTINF:-1,Us- SHOWTIME FAMILY ZONE
+http://m-iptv.net:6204/bella1/bella/10393
+#EXTINF:-1,Us- SLICE HD
+http://m-iptv.net:6204/bella1/bella/10392
+#EXTINF:-1,Us- Starz HD US
+http://m-iptv.net:6204/bella1/bella/10390
+#EXTINF:-1,Us- STARZ KIDS & Family HD
+http://m-iptv.net:6204/bella1/bella/10389
+#EXTINF:-1,Us- Syfy HD
+http://m-iptv.net:6204/bella1/bella/10388
+#EXTINF:-1,Us- SyFy HD USA
+http://m-iptv.net:6204/bella1/bella/10387
+#EXTINF:-1,Us- TBS USA
+http://m-iptv.net:6204/bella1/bella/10386
+#EXTINF:-1,Us- TLC HD
+http://m-iptv.net:6204/bella1/bella/10385
+#EXTINF:-1,Us- TNT US
+http://m-iptv.net:6204/bella1/bella/10384
+#EXTINF:-1,Us- TRU TV HD
+http://m-iptv.net:6204/bella1/bella/10383
+#EXTINF:-1,Us- TSN 1 HD
+http://m-iptv.net:6204/bella1/bella/10636
+#EXTINF:-1,Us- TSN 2 HD
+http://m-iptv.net:6204/bella1/bella/10635
+#EXTINF:-1,Us- TSN 3 HD
+http://m-iptv.net:6204/bella1/bella/10634
+#EXTINF:-1,Us- TSN 4 HD
+http://m-iptv.net:6204/bella1/bella/10633
+#EXTINF:-1,Us- TSN 5 HD
+http://m-iptv.net:6204/bella1/bella/10632
+#EXTINF:-1,Us- TV Land HD
+http://m-iptv.net:6204/bella1/bella/10382
+#EXTINF:-1,Us- VH1 HD US
+http://m-iptv.net:6204/bella1/bella/10380
+#EXTINF:-1,Us- Viceland TV
+http://m-iptv.net:6204/bella1/bella/10379
+#EXTINF:-1,Us- WE HD
+http://m-iptv.net:6204/bella1/bella/10378
+#EXTINF:-1,Us- WWE HD
+http://m-iptv.net:6204/bella1/bella/10376
+#EXTINF:-1,Us- Weather channel
+http://m-iptv.net:6204/bella1/bella/10377
