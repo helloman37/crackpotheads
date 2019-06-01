@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1,USA: A&E
+#EXTINF:-1,HBO
 http://live.savitar.tv/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjoxMjozOCBBTSZoYXNoX3ZhbHVlPXlSNEZDZU45bVRWTFEwWDZVcVdyVUE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:-1,SHOWTIME
+http://live.savitar.tv/Showtime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjoxNTo1OCBBTSZoYXNoX3ZhbHVlPUJuK2Q1YXNELzQweisxUjhNNGlzUnc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
