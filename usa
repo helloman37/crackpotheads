@@ -47,6 +47,8 @@ http://live.savitar.tv/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni
 http://live.savitar.tv/ID/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjo0NTowNyBBTSZoYXNoX3ZhbHVlPXZRno4Q1VrQnVJbGZIN2o1NytIV3c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
 #EXTINF:-1,HISTORY
 http://live.savitar.tv/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjo0NjowNyBBTSZoYXNoX3ZhbHVlPTg3aWlGcHFDNGt1YlN3aktrYTJjNlE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+#EXTINF:-1,CMT
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/152999.m3u8
 #NEW
 
 
@@ -258,57 +260,57 @@ http://dibo.live:8080/live/Antonio1/Antonio/197949.m3u8
 http://dibo.live:8080/live/Antonio1/Antonio/197958.m3u8
 #EXTINF:-1,SPORT: UK - Sky Sports Mix HD
 http://dibo.live:8080/live/Antonio1/Antonio/197962.m3u8
-#EXTINF:-1,â™«: UK - 4 MUSIC HD
+#EXTINF:-1,♫: UK - 4 MUSIC HD
 http://dibo.live:8080/live/Antonio1/Antonio/98233.m3u8
-#EXTINF:-1,â™«: UK - BOX HITS HD
+#EXTINF:-1,♫: UK - BOX HITS HD
 http://dibo.live:8080/live/Antonio1/Antonio/198052.m3u8
-#EXTINF:-1,â™«: UK - Club MTV
+#EXTINF:-1,♫: UK - Club MTV
 http://dibo.live:8080/live/Antonio1/Antonio/204227.m3u8
-#EXTINF:-1,â™«: UK - Clubland TV
+#EXTINF:-1,♫: UK - Clubland TV
 http://dibo.live:8080/live/Antonio1/Antonio/213523.m3u8
-#EXTINF:-1,â™«: UK - MTV Base HD
+#EXTINF:-1,♫: UK - MTV Base HD
 http://dibo.live:8080/live/Antonio1/Antonio/206098.m3u8
-#EXTINF:-1,â™«: UK - MTV Classic HD
+#EXTINF:-1,♫: UK - MTV Classic HD
 http://dibo.live:8080/live/Antonio1/Antonio/206152.m3u8
-#EXTINF:-1,â™«: UK - VH 1 CLASSIC
+#EXTINF:-1,♫: UK - VH 1 CLASSIC
 http://dibo.live:8080/live/Antonio1/Antonio/206218.m3u8
-#EXTINF:-1,â™«: US - MTV FHD
+#EXTINF:-1,♫: US - MTV FHD
 http://dibo.live:8080/live/Antonio1/Antonio/206146.m3u8
-#EXTINF:-1,â™«: US - Music Choice
+#EXTINF:-1,♫: US - Music Choice
 http://dibo.live:8080/live/Antonio1/Antonio/198023.m3u8
-#EXTINF:-1,â™«: US - Music Choice - 90s
+#EXTINF:-1,♫: US - Music Choice - 90s
 http://dibo.live:8080/live/Antonio1/Antonio/198024.m3u8
-#EXTINF:-1,â™«: US - Music Choice - Alternative
+#EXTINF:-1,♫: US - Music Choice - Alternative
 http://dibo.live:8080/live/Antonio1/Antonio/198025.m3u8
-#EXTINF:-1,â™«: US - Music Choice - Brit Hits
+#EXTINF:-1,♫: US - Music Choice - Brit Hits
 http://dibo.live:8080/live/Antonio1/Antonio/213753.m3u8
-#EXTINF:-1,â™«: US - Music Choice - Contemporary Christian
+#EXTINF:-1,♫: US - Music Choice - Contemporary Christian
 http://dibo.live:8080/live/Antonio1/Antonio/198027.m3u8
-#EXTINF:-1,â™«: US - Music Choice - Hip-Hop & R&B
+#EXTINF:-1,♫: US - Music Choice - Hip-Hop & R&B
 http://dibo.live:8080/live/Antonio1/Antonio/198029.m3u8
-#EXTINF:-1,â™«: US - Music Choice - Indie
+#EXTINF:-1,♫: US - Music Choice - Indie
 http://dibo.live:8080/live/Antonio1/Antonio/198030.m3u8
-#EXTINF:-1,â™«: US - Music Choice - Kids Only
+#EXTINF:-1,♫: US - Music Choice - Kids Only
 http://dibo.live:8080/live/Antonio1/Antonio/198031.m3u8
-#EXTINF:-1,â™«: US - Music Choice - Metal
+#EXTINF:-1,♫: US - Music Choice - Metal
 http://dibo.live:8080/live/Antonio1/Antonio/212292.m3u8
-#EXTINF:-1,â™«: US - MUSIC CHOICE - OCKO GOLD
+#EXTINF:-1,♫: US - MUSIC CHOICE - OCKO GOLD
 http://dibo.live:8080/live/Antonio1/Antonio/198033.m3u8
-#EXTINF:-1,â™«: US - Music Choice - R&B Soul
+#EXTINF:-1,♫: US - Music Choice - R&B Soul
 http://dibo.live:8080/live/Antonio1/Antonio/198022.m3u8
-#EXTINF:-1,â™«: US - Music Choice - Rap 2K
+#EXTINF:-1,♫: US - Music Choice - Rap 2K
 http://dibo.live:8080/live/Antonio1/Antonio/198020.m3u8
-#EXTINF:-1,â™«: US - Music Choice - Teen Beats
+#EXTINF:-1,♫: US - Music Choice - Teen Beats
 http://dibo.live:8080/live/Antonio1/Antonio/198019.m3u8
-#EXTINF:-1,â™«: US - Music Choice - Throwback Jams
+#EXTINF:-1,♫: US - Music Choice - Throwback Jams
 http://dibo.live:8080/live/Antonio1/Antonio/198018.m3u8
-#EXTINF:-1,â™«: US - Music Choice - Todays Country
+#EXTINF:-1,♫: US - Music Choice - Todays Country
 http://dibo.live:8080/live/Antonio1/Antonio/213754.m3u8
-#EXTINF:-1,â™«: US - Music Choice - Toddler Tunes
+#EXTINF:-1,♫: US - Music Choice - Toddler Tunes
 http://dibo.live:8080/live/Antonio1/Antonio/198016.m3u8
-#EXTINF:-1,â™«: US - Music Choice - Tropicales
+#EXTINF:-1,♫: US - Music Choice - Tropicales
 http://dibo.live:8080/live/Antonio1/Antonio/198015.m3u8
-#EXTINF:-1,â™«: US - XITE HD
+#EXTINF:-1,♫: US - XITE HD
 http://dibo.live:8080/live/Antonio1/Antonio/198565.m3u8
 #EXTINF:-1,CARTOON: UK - Baby TV HD
 http://dibo.live:8080/live/Antonio1/Antonio/198498.m3u8
@@ -1230,7 +1232,7 @@ http://dibo.live:8080/live/Antonio1/Antonio/102021.m3u8
 http://dibo.live:8080/live/Antonio1/Antonio/211316.m3u8
 #EXTINF:-1,US: CNBS HD
 http://dibo.live:8080/live/Antonio1/Antonio/99867.m3u8
-#EXTINF:-1,US: CNN en EspaÃ±ol
+#EXTINF:-1,US: CNN en Español
 http://dibo.live:8080/live/Antonio1/Antonio/149939.m3u8
 #EXTINF:-1,US: CNS 10 TAMPA BAY
 http://dibo.live:8080/live/Antonio1/Antonio/214769.m3u8
@@ -2842,7 +2844,7 @@ http://dibo.live:8080/live/Antonio1/Antonio/77015.m3u8
 http://dibo.live:8080/live/Antonio1/Antonio/77288.m3u8
 #EXTINF:-1,CA: ARTV
 http://dibo.live:8080/live/Antonio1/Antonio/77289.m3u8
-#EXTINF:-1,CA: AssemblÃ©e Nationale QuÃ©bec
+#EXTINF:-1,CA: Assemblée Nationale Québec
 http://dibo.live:8080/live/Antonio1/Antonio/158493.m3u8
 #EXTINF:-1,CA: BBC CANADA
 http://dibo.live:8080/live/Antonio1/Antonio/158494.m3u8
@@ -3026,7 +3028,7 @@ http://dibo.live:8080/live/Antonio1/Antonio/77367.m3u8
 http://dibo.live:8080/live/Antonio1/Antonio/150278.m3u8
 #EXTINF:-1,CA: SUPER CHANNEL HEART & HOME
 http://dibo.live:8080/live/Antonio1/Antonio/150279.m3u8
-#EXTINF:-1,CA: SÃ©ries+ (FR)
+#EXTINF:-1,CA: Séries+ (FR)
 http://dibo.live:8080/live/Antonio1/Antonio/213457.m3u8
 #EXTINF:-1,CA: TELE MAGINO
 http://dibo.live:8080/live/Antonio1/Antonio/77375.m3u8
@@ -3066,17 +3068,17 @@ http://dibo.live:8080/live/Antonio1/Antonio/176400.m3u8
 http://dibo.live:8080/live/Antonio1/Antonio/176401.m3u8
 #EXTINF:-1,CA: TV5 QUEBEC
 http://dibo.live:8080/live/Antonio1/Antonio/213748.m3u8
-#EXTINF:-1,CA: TV5 QuÃ©bec (FR)
+#EXTINF:-1,CA: TV5 Québec (FR)
 http://dibo.live:8080/live/Antonio1/Antonio/213448.m3u8
 #EXTINF:-1,CA: TVA Quebec (FR)
 http://dibo.live:8080/live/Antonio1/Antonio/213449.m3u8
 #EXTINF:-1,CA: TVO KISD
 http://dibo.live:8080/live/Antonio1/Antonio/116267.m3u8
-#EXTINF:-1,CA: TÃ©lÃ© Magino (FR)
+#EXTINF:-1,CA: Télé Magino (FR)
 http://dibo.live:8080/live/Antonio1/Antonio/213465.m3u8
-#EXTINF:-1,CA: TÃ©lÃ© QuÃ©bec (FR)
+#EXTINF:-1,CA: Télé Québec (FR)
 http://dibo.live:8080/live/Antonio1/Antonio/213463.m3u8
-#EXTINF:-1,CA: TÃ©lÃ©toon (FR)
+#EXTINF:-1,CA: Télétoon (FR)
 http://dibo.live:8080/live/Antonio1/Antonio/213464.m3u8
 #EXTINF:-1,CA: UNIS TV
 http://dibo.live:8080/live/Antonio1/Antonio/152302.m3u8
