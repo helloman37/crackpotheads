@@ -54,8 +54,6 @@ http://live.savitar.tv/ID/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8
 http://live.savitar.tv/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjo0NjowNyBBTSZoYXNoX3ZhbHVlPTg3aWlGcHFDNGt1YlN3aktrYTJjNlE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
 #EXTINF:-1,CMT
 http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/152999.m3u8
-#EXTINF:-1,CMT Country Music Television HD
-http://dibo.live:8080/live/Antonio1/Antonio/211316.m3u8
 #EXTINF:-1,WWE
 http://dibo.live:8080/live/pk10291/579365/77082.m3u8
 #EXTINF:-1,MTV
