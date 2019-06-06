@@ -1,353 +1,763 @@
 #EXTM3U
-#EXTINF:-1,WELCOME TO FREE TV!
-#EXTINF:-1,TNT
-http://live.savitar.tv/TNT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjoyMDo1MiBBTSZoYXNoX3ZhbHVlPThaUEExL09pbzdQS0t0eS9wckRiaVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:-1,NICK
-http://live.savitar.tv/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjoyMjo0NyBBTSZoYXNoX3ZhbHVlPUZKNURSc2ZDRGJlWjRsUmFVWENkZUE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:-1,Nick Junior
-http://dibo.live:8080/live/Antonio1/Antonio/65128.m3u8
-#EXTINF:-1,Nick Junior TOO
-http://dibo.live:8080/live/Antonio1/Antonio/74592.m3u8
-#EXTINF:-1,UK: Nick Toons HD
-http://dibo.live:8080/live/Antonio1/Antonio/65129.m3u8
-#EXTINF:-1,LAFF TV
-http://dibo.live:8080/live/Antonio1/Antonio/164257.m3u8
-#EXTINF:-1,Me TV HD
-http://dibo.live:8080/live/Antonio1/Antonio/96267.m3u8
-#EXTINF:-1,FX
-http://live.savitar.tv/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozMDozOCBBTSZoYXNoX3ZhbHVlPU5hU2p3eVRGNDM4NHh1NFYvbER0RkE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:-1,USA
-http://live.savitar.tv/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozMTo0OCBBTSZoYXNoX3ZhbHVlPXdxT3VyRnhLMm90c0VhK1g2ekxzY0E9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:-1,SYFY
-http://live.savitar.tv/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozMzowMSBBTSZoYXNoX3ZhbHVlPWJMbFIxUFpMN1RCZkh0R2NBMjBaZkE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:-1,COMODY CENTRAL
-http://live.savitar.tv/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozMzozOSBBTSZoYXNoX3ZhbHVlPWppZHFGN1Y3WUc2L1V5bnZYVHQyakE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:-1,TLC
-http://live.savitar.tv/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozNDozNCBBTSZoYXNoX3ZhbHVlPWlmOXpZWkpoS1UrMjF6SGRabi95RVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:-1,TBS
-http://live.savitar.tv/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozNToyNCBBTSZoYXNoX3ZhbHVlPXZxV2dNcDJhTDRlWExDR1ZObW9xMXc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:-1,A&E
-http://live.savitar.tv/AE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozNjoxMSBBTSZoYXNoX3ZhbHVlPVBRRlU1cll6QXY3U0tMQzFWWFNUcmc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:-1,DISNEY CHANNEL
-http://live.savitar.tv/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozNjo0NCBBTSZoYXNoX3ZhbHVlPU1RT3FRYWhtTEJJc1A0ekduL2lFQVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:-1,CARTOON NETWORK
-http://live.savitar.tv/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozNzoxOSBBTSZoYXNoX3ZhbHVlPXZlT3kxUTRNMzVjU1VDNVFmbFBVd2c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:-1,THE CW
-http://live.savitar.tv/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozNzo1NCBBTSZoYXNoX3ZhbHVlPURPNWRXazRIR2V2Vk8yeDA0R2czRHc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:-1,AMC
-http://live.savitar.tv/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozODo1MSBBTSZoYXNoX3ZhbHVlPWhVK3pFbG16Y0FLSGNobk1ZM2Iwb3c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:-1,WEATHER CHANNEL
-https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1,CBS
-http://live.savitar.tv/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozOTo0OCBBTSZoYXNoX3ZhbHVlPVdhbGRZOGtyZ3BkZjdZOFlhQ3ZzZUE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:-1,ABC
-http://live.savitar.tv/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjo0MDoyMSBBTSZoYXNoX3ZhbHVlPU01UmpOVmlaQzlZVXZ6YlBlM3NXcGc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:-1,NBC
-http://live.savitar.tv/NBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjo0MDo1MyBBTSZoYXNoX3ZhbHVlPUkyaENPeEE2SXNmMkVTdGpKUHBZUGc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:-1,FOX
-http://live.savitar.tv/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjo0MToyMSBBTSZoYXNoX3ZhbHVlPTE1L1BrOGZHc1hSUkNjVlA1MmNnYlE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:-1,CNN
-http://live.savitar.tv/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjo0MjowNiBBTSZoYXNoX3ZhbHVlPUtVbis3STBWeExOcStnOEtkOXF5eVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:-1,INVESTIGATION DISCOVERY
-http://live.savitar.tv/ID/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjo0NTowNyBBTSZoYXNoX3ZhbHVlPXZRno4Q1VrQnVJbGZIN2o1NytIV3c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:-1,HISTORY
-http://live.savitar.tv/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjo0NjowNyBBTSZoYXNoX3ZhbHVlPTg3aWlGcHFDNGt1YlN3aktrYTJjNlE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:-1,CMT
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/152999.m3u8
-#EXTINF:-1,WWE
-http://dibo.live:8080/live/pk10291/579365/77082.m3u8
-#EXTINF:-1,MTV
-http://dibo.live:8080/live/pk10291/579365/105910.m3u8
-#EXTINF:-1,OWN
-http://dibo.live:8080/live/pk10291/579365/76434.m3u8
-#EXTINF:-1,SPIKE TV
-http://dibo.live:8080/live/pk10291/579365/74845.m3u8
-#EXTINF:-1,PBS
-http://dibo.live:8080/live/pk10291/579365/92810.m3u8
-#EXTINF:-1,VH1
-http://dibo.live:8080/live/pk10291/579365/78295.m3u8
-#EXTINF:-1,WEATHER
-http://dibo.live:8080/live/Antonio1/Antonio/74925.m3u8
-#EXTINF:-1,DISCOVERY
-http://dibo.live:8080/live/pk10291/579365/101345.m3u8
-#EXTINF:-1,CBS NEWS
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1,BBC AMERICA
-http://dibo.live:8080/live/pk10291/579365/76453.m3u8
-#EXTINF:-1,BET
-http://dibo.live:8080/live/pk10291/579365/66173.m3u8
-#EXTINF:-1,ABC FAMILY
-http://dibo.live:8080/live/pk10291/579365/76453.m3u8
-#EXTINF:-1,LIFETIME
-http://dibo.live:8080/live/pk10291/579365/199610.m3u8
-#EXTINF:-1, NAT GEO WILD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/74807.m3u8
-#EXTINF:-1,E! HD
-http://dibo.live:8080/live/Antonio1/Antonio/103720.m3u8
-#EXTINF:-1,24/7: COPS (ETV)
-http://dibo.live:8080/live/Antonio1/Antonio/157725.m3u8
-#EXTINF:-1,24/7: CRIMINAL MINDS (ETV)
-http://dibo.live:8080/live/Antonio1/Antonio/157726.m3u8
-#EXTINF:-1,24/7: FRESH PRINCE OF BELL AIR
-http://dibo.live:8080/live/Antonio1/Antonio/135435.m3u8
-#EXTINF:-1,24/7: CURIOUS GEORGE (ETV)
-http://dibo.live:8080/live/Antonio1/Antonio/157727.m3u8
-#EXTINF:-1,24/7: LOONEY TUNES
-http://dibo.live:8080/live/Antonio1/Antonio/149512.m3u8
-#EXTINF:-1,FAMILY GUY
-http://dibo.live:8080/live/Antonio1/Antonio/101284.m3u8
-#EXTINF:-1,24/7: The Simpsons
-http://dibo.live:8080/live/Antonio1/Antonio/84514.m3u8
-#EXTINF:-1,24/7: The Wonder Years
-http://dibo.live:8080/live/Antonio1/Antonio/125960.m3u8
-#EXTINF:-1,24/7: MARRIED WITH CHILDREN (ETV)
-http://dibo.live:8080/live/Antonio1/Antonio/157730.m3u8
-#EXTINF:-1,FIGHT Channel HD
-http://dibo.live:8080/live/Antonio1/Antonio/98273.m3u8
-#EXTINF:-1,FIGHT SPORT 1 HD
-http://dibo.live:8080/live/Antonio1/Antonio/74913.m3u8
-#EXTINF:-1,Food Network FHD
-http://dibo.live:8080/live/Antonio1/Antonio/74859.m3u8
-#EXTINF:-1,FX WEST HD
-http://dibo.live:8080/live/Antonio1/Antonio/156775.m3u8
-#EXTINF:-1,FXX FHD
-http://dibo.live:8080/live/Antonio1/Antonio/150021.m3u8
-#EXTINF:-1,FXX WEST HD
-http://dibo.live:8080/live/Antonio1/Antonio/138299.m3u8
-#EXTINF:-1,Hallmark Movies And Mysteries HD
-http://dibo.live:8080/live/Antonio1/Antonio/211362.m3u8
-#EXTINF:-1,Lifetime Movie Network HD
-http://dibo.live:8080/live/Antonio1/Antonio/98308.m3u8
-#EXTINF:-1,THRILLER MAX HD
-http://dibo.live:8080/live/Antonio1/Antonio/160153.m3u8
-#EXTINF:-1,TV Land HD
-http://dibo.live:8080/live/Antonio1/Antonio/76468.m3u8
-#EXTINF:-1,WEATHER NATION
-http://dibo.live:8080/live/Antonio1/Antonio/92485.m3u8
-#EXTINF:-1,UK: HORROR CHANNEL
-http://dibo.live:8080/live/Antonio1/Antonio/153919.m3u8
-#EXTINF:-1,HBO
-http://live.savitar.tv/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjoxMjozOCBBTSZoYXNoX3ZhbHVlPXlSNEZDZU45bVRWTFEwWDZVcVdyVUE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:-1,HBO (East) HD
-http://dibo.live:8080/live/Antonio1/Antonio/75881.m3u8
-#EXTINF:-1,HBO 2 FHD
-http://dibo.live:8080/live/Antonio1/Antonio/77694.m3u8
-#EXTINF:-1,HBO 2 West FHD
-http://dibo.live:8080/live/Antonio1/Antonio/77693.m3u8
-#EXTINF:-1,HBO Comedy HD
-http://dibo.live:8080/live/Antonio1/Antonio/148295.m3u8
-#EXTINF:-1,HBO Family FHD
-http://dibo.live:8080/live/Antonio1/Antonio/156782.m3u8
-#EXTINF:-1,HBO Plus West HD
-http://dibo.live:8080/live/Antonio1/Antonio/84377.m3u8
-#EXTINF:-1,HBO Signature East HD
-http://dibo.live:8080/live/Antonio1/Antonio/211366.m3u8
-#EXTINF:-1,HBO Signature FHD
-http://dibo.live:8080/live/Antonio1/Antonio/156783.m3u8
-#EXTINF:-1,HBO Zone FHD
-http://dibo.live:8080/live/Antonio1/Antonio/103755.m3u8
-#EXTINF:-1,SHOWTIME
-http://live.savitar.tv/Showtime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjoxNTo1OCBBTSZoYXNoX3ZhbHVlPUJuK2Q1YXNELzQweisxUjhNNGlzUnc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:-1,STARZ
-http://live.savitar.tv/StarZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozMDowMiBBTSZoYXNoX3ZhbHVlPXRmdTJxSjlhdlVsaU9lODdnNm1HQkE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-#EXTINF:-1,CIENEMAX MOREMAX HD
-http://dibo.live:8080/live/Antonio1/Antonio/156787.m3u8
-#EXTINF:-1,Cine Sony
-http://dibo.live:8080/live/Antonio1/Antonio/149932.m3u8
-#EXTINF:-1,Cinema 01 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/84375.m3u8
-#EXTINF:-1,Cinema 02 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77658.m3u8
-#EXTINF:-1,Cinema 03 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77657.m3u8
-#EXTINF:-1,Cinema 04 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77656.m3u8
-#EXTINF:-1,Cinema 05 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77655.m3u8
-#EXTINF:-1,Cinema 06 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/84376.m3u8
-#EXTINF:-1,Cinema 07 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77653.m3u8
-#EXTINF:-1,Cinema 08 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77652.m3u8
-#EXTINF:-1,Cinema 09 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77651.m3u8
-#EXTINF:-1,Cinema 10 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77650.m3u8
-#EXTINF:-1,Cinema 11 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77649.m3u8
-#EXTINF:-1,Cinema 12 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77648.m3u8
-#EXTINF:-1,Cinema 13 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77647.m3u8
-#EXTINF:-1,Cinema 14 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77646.m3u8
-#EXTINF:-1,Cinema 15 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77645.m3u8
-#EXTINF:-1,Cinema 16 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77644.m3u8
-#EXTINF:-1,Cinema 17 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77643.m3u8
-#EXTINF:-1,Cinema 18 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77642.m3u8
-#EXTINF:-1,Cinema 19 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77641.m3u8
-#EXTINF:-1,Cinema 20 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77640.m3u8
-#EXTINF:-1,Cinema 21 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77639.m3u8
-#EXTINF:-1,Cinema 22 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77638.m3u8
-#EXTINF:-1,Cinema 23 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77637.m3u8
-#EXTINF:-1,Cinema 24 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77636.m3u8
-#EXTINF:-1,Cinema 26 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77634.m3u8
-#EXTINF:-1,Cinema 27 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/102055.m3u8
-#EXTINF:-1,Cinema 28 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77632.m3u8
-#EXTINF:-1,Cinema 29 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77631.m3u8
-#EXTINF:-1,Cinema 30 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77630.m3u8
-#EXTINF:-1,Cinema 32 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77628.m3u8
-#EXTINF:-1,Cinema 33 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77627.m3u8
-#EXTINF:-1,Cinema 35 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77625.m3u8
-#EXTINF:-1,Cinema 36 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77624.m3u8
-#EXTINF:-1,Cinema 37 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77623.m3u8
-#EXTINF:-1,Cinema 38 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77622.m3u8
-#EXTINF:-1,Cinema 39 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77621.m3u8
-#EXTINF:-1,Cinema 40 PPV
-http://dibo.live:8080/live/Antonio1/Antonio/77620.m3u8
-#EXTINF:-1,CINEMAX 5 STAR MAX HD
-http://dibo.live:8080/live/Antonio1/Antonio/74927.m3u8
-#EXTINF:-1,Cinemax Action 2 HD
-http://dibo.live:8080/live/Antonio1/Antonio/77698.m3u8
-#EXTINF:-1,CINEMAX ACTION FHD
-http://dibo.live:8080/live/Antonio1/Antonio/65085.m3u8
-#EXTINF:-1,Cinemax Action Max HD
-http://dibo.live:8080/live/Antonio1/Antonio/159963.m3u8
-#EXTINF:-1,CINEMAX ACTOIN EAST
-http://dibo.live:8080/live/Antonio1/Antonio/76560.m3u8
-#EXTINF:-1,Cinemax East HD
-http://dibo.live:8080/live/Antonio1/Antonio/211314.m3u8
-#EXTINF:-1,CINEMAX MOREMAX FHD
-http://dibo.live:8080/live/Antonio1/Antonio/74853.m3u8
-#EXTINF:-1,CINEMAX OUTER MAX FHD
-http://dibo.live:8080/live/Antonio1/Antonio/77166.m3u8
-#EXTINF:-1,CINEMAX THRILLER FHD
-http://dibo.live:8080/live/Antonio1/Antonio/103708.m3u8
-#EXTINF:-1,Cinemax West FHD
-http://dibo.live:8080/live/Antonio1/Antonio/102021.m3u8
-#EXTINF:-1,Max West
-http://dibo.live:8080/live/Antonio1/Antonio/109706.m3u8
-#EXTINF:-1,Movie Plex FHD
-http://dibo.live:8080/live/Antonio1/Antonio/77687.m3u8
-#EXTINF:-1,SHOWTIME (West) HD
-http://dibo.live:8080/live/Antonio1/Antonio/77684.m3u8
-#EXTINF:-1,Showtime 2 HD
-http://dibo.live:8080/live/Antonio1/Antonio/76483.m3u8
-#EXTINF:-1,Showtime Beyond HD
-http://dibo.live:8080/live/Antonio1/Antonio/211442.m3u8
-#EXTINF:-1,Showtime FHD
-http://dibo.live:8080/live/Antonio1/Antonio/158598.m3u8
-#EXTINF:-1,Showtime Pacific
-http://dibo.live:8080/live/Antonio1/Antonio/150050.m3u8
-#EXTINF:-1,SHOWTIME SHOWCASE FHD
-http://dibo.live:8080/live/Antonio1/Antonio/74935.m3u8
-#EXTINF:-1,Signature
-http://dibo.live:8080/live/Antonio1/Antonio/75117.m3u8
-#EXTINF:-1,Starz Black HD
-http://dibo.live:8080/live/Antonio1/Antonio/77683.m3u8
-#EXTINF:-1,Starz Cinema East FHD
-http://dibo.live:8080/live/Antonio1/Antonio/77682.m3u8
-#EXTINF:-1,Starz Cinema FHD
-http://dibo.live:8080/live/Antonio1/Antonio/76479.m3u8
-#EXTINF:-1,Starz Cinema West FHD
-http://dibo.live:8080/live/Antonio1/Antonio/77680.m3u8
-#EXTINF:-1,Starz Comedy East HD
-http://dibo.live:8080/live/Antonio1/Antonio/136566.m3u8
-#EXTINF:-1,Starz Comedy FHD
-http://dibo.live:8080/live/Antonio1/Antonio/75850.m3u8
-#EXTINF:-1,Starz East HD
-http://dibo.live:8080/live/Antonio1/Antonio/199243.m3u8
-#EXTINF:-1,STARZ EDGE FHD
-http://dibo.live:8080/live/Antonio1/Antonio/76478.m3u8
-#EXTINF:-1,STARZ EDGE West HD
-http://dibo.live:8080/live/Antonio1/Antonio/77676.m3u8
-#EXTINF:-1,Starz Encore 2 HD
-http://dibo.live:8080/live/Antonio1/Antonio/77675.m3u8
-#EXTINF:-1,Starz Encore Action
-http://dibo.live:8080/live/Antonio1/Antonio/77674.m3u8
-#EXTINF:-1,Starz Encore Black HD
-http://dibo.live:8080/live/Antonio1/Antonio/77673.m3u8
-#EXTINF:-1,Starz Encore Classic FHD
-http://dibo.live:8080/live/Antonio1/Antonio/77672.m3u8
-#EXTINF:-1,Starz Encore EAST HD
-http://dibo.live:8080/live/Antonio1/Antonio/199395.m3u8
-#EXTINF:-1,Starz Encore Family FHD
-http://dibo.live:8080/live/Antonio1/Antonio/84378.m3u8
-#EXTINF:-1,Starz Encore Suspense HD
-http://dibo.live:8080/live/Antonio1/Antonio/77668.m3u8
-#EXTINF:-1,Starz Encore West FHD
-http://dibo.live:8080/live/Antonio1/Antonio/77667.m3u8
-#EXTINF:-1,Starz Encore Western FHD
-http://dibo.live:8080/live/Antonio1/Antonio/77666.m3u8
-#EXTINF:-1,Starz Family HD
-http://dibo.live:8080/live/Antonio1/Antonio/77665.m3u8
-#EXTINF:-1,Starz FHD
-http://dibo.live:8080/live/Antonio1/Antonio/97659.m3u8
-#EXTINF:-1,STARZ KIDS & FAMILY FHD
-http://dibo.live:8080/live/Antonio1/Antonio/77158.m3u8
-#EXTINF:-1,STARZ WEST HD
-http://dibo.live:8080/live/Antonio1/Antonio/76476.m3u8
-#EXTINF:-1,Straz Encore Family HD
-http://dibo.live:8080/live/Antonio1/Antonio/136570.m3u8
-#EXTINF:-1,Music Choice - 90s
-http://dibo.live:8080/live/Antonio1/Antonio/108907.m3u8
-#EXTINF:-1,Music Choice - Alternative
-http://dibo.live:8080/live/Antonio1/Antonio/91486.m3u8
-#EXTINF:-1,Music Choice - Brit Hits
-http://dibo.live:8080/live/Antonio1/Antonio/148598.m3u8
-#EXTINF:-1,Music Choice - Contemporary Christian
-http://dibo.live:8080/live/Antonio1/Antonio/148599.m3u8
-#EXTINF:-1,Music Choice - Dance & EDM
-http://dibo.live:8080/live/Antonio1/Antonio/91484.m3u8
-#EXTINF:-1,Music Choice - Hip-Hop & R&B
-http://dibo.live:8080/live/Antonio1/Antonio/91483.m3u8
-#EXTINF:-1,Music Choice - Indie
-http://dibo.live:8080/live/Antonio1/Antonio/91481.m3u8
-#EXTINF:-1,Music Choice - Kids Only
-http://dibo.live:8080/live/Antonio1/Antonio/148603.m3u8
-#EXTINF:-1,Music Choice - Metal
-http://dibo.live:8080/live/Antonio1/Antonio/109428.m3u8
-#EXTINF:-1,Music Choice - Pop & Country
-http://dibo.live:8080/live/Antonio1/Antonio/91478.m3u8
-#EXTINF:-1,Music Choice - Pop Hits
-http://dibo.live:8080/live/Antonio1/Antonio/91476.m3u8
-#EXTINF:-1,Music Choice - R&B Soul
-http://dibo.live:8080/live/Antonio1/Antonio/91475.m3u8
-#EXTINF:-1,Music Choice - Rap
-http://dibo.live:8080/live/Antonio1/Antonio/91474.m3u8
-#EXTINF:-1,Music Choice - Teen Beats
-http://dibo.live:8080/live/Antonio1/Antonio/91471.m3u8
-#EXTINF:-1,Music Choice - Throwback Jams
-http://dibo.live:8080/live/Antonio1/Antonio/91470.m3u8
-#EXTINF:-1,Music Choice - Todays Country
-http://dibo.live:8080/live/Antonio1/Antonio/91469.m3u8
-#EXTINF:-1,Music Choice - Toddler Tunes
-http://dibo.live:8080/live/Antonio1/Antonio/148616.m3u8
-#EXTINF:-1,Music Choice - Tropicales
-http://dibo.live:8080/live/Antonio1/Antonio/108914.m3u8
-#EXTINF:-1,Music Choice - URBAN
-http://dibo.live:8080/live/Antonio1/Antonio/151275.m3u8
-#NEW
+#EXTINF:-1,US: NBA TV HD
+http://thenew.tv:8000/Olga123/Olga321/5005
+#EXTINF:-1,US: ABC
+http://thenew.tv:8000/Olga123/Olga321/54192
+#EXTINF:-1,US: Adult Swim Channel
+http://thenew.tv:8000/Olga123/Olga321/3462
+#EXTINF:-1,US: American Heroes
+http://thenew.tv:8000/Olga123/Olga321/3391
+#EXTINF:-1,US: ANIMAL PLANET HD
+http://thenew.tv:8000/Olga123/Olga321/3460
+#EXTINF:-1,US: BET
+http://thenew.tv:8000/Olga123/Olga321/3459
+#EXTINF:-1,US: BET her
+http://thenew.tv:8000/Olga123/Olga321/3458
+#EXTINF:-1,US:BOOMERANG
+http://thenew.tv:8000/Olga123/Olga321/3457
+#EXTINF:-1,US: BTN
+http://thenew.tv:8000/Olga123/Olga321/3482
+#EXTINF:-1,US: CBS (East)
+http://thenew.tv:8000/Olga123/Olga321/3454
+#EXTINF:-1,US: CMT
+http://thenew.tv:8000/Olga123/Olga321/3390
+#EXTINF:-1,US: COOKING CHANNEL HD
+http://thenew.tv:8000/Olga123/Olga321/3452
+#EXTINF:-1,US: CW HD
+http://thenew.tv:8000/Olga123/Olga321/3450
+#EXTINF:-1,US: Destination America
+http://thenew.tv:8000/Olga123/Olga321/3448
+#EXTINF:-1,US: Discovery Channel HD
+http://thenew.tv:8000/Olga123/Olga321/3447
+#EXTINF:-1,US: Discovery Life HD
+http://thenew.tv:8000/Olga123/Olga321/40360
+#EXTINF:-1,US: Discovery Science HD
+http://thenew.tv:8000/Olga123/Olga321/3446
+#EXTINF:-1,US: Discovery Family
+http://thenew.tv:8000/Olga123/Olga321/3389
+#EXTINF:-1,US: Disney Channel
+http://thenew.tv:8000/Olga123/Olga321/3388
+#EXTINF:-1,US: Disney Channel Paficic
+http://thenew.tv:8000/Olga123/Olga321/3387
+#EXTINF:-1,US: Disney Junior
+http://thenew.tv:8000/Olga123/Olga321/40361
+#EXTINF:-1,US: Disney Junior Pacific
+http://thenew.tv:8000/Olga123/Olga321/3386
+#EXTINF:-1,US: Disney XD
+http://thenew.tv:8000/Olga123/Olga321/3385
+#EXTINF:-1,US: DIY Network HD
+http://thenew.tv:8000/Olga123/Olga321/3445
+#EXTINF:-1,US:EL REY NETWORK (FHD)
+http://thenew.tv:8000/Olga123/Olga321/59581
+#EXTINF:-1,US: DOG TV
+http://thenew.tv:8000/Olga123/Olga321/47422
+#EXTINF:-1,US: E! Entertainment
+http://thenew.tv:8000/Olga123/Olga321/3443
+#EXTINF:-1,US: FOOD NETWORK
+http://thenew.tv:8000/Olga123/Olga321/3441
+#EXTINF:-1,US: Food Network HD
+http://thenew.tv:8000/Olga123/Olga321/3440
+#EXTINF:-1,US:FOX BUSINESS
+http://thenew.tv:8000/Olga123/Olga321/3438
+#EXTINF:-1,US: FOX
+http://thenew.tv:8000/Olga123/Olga321/3437
+#EXTINF:-1,US: FREEFORM
+http://thenew.tv:8000/Olga123/Olga321/3436
+#EXTINF:-1,US: Fusion
+http://thenew.tv:8000/Olga123/Olga321/3384
+#EXTINF:-1,US: FX HD
+http://thenew.tv:8000/Olga123/Olga321/3435
+#EXTINF:-1,US: FXM
+http://thenew.tv:8000/Olga123/Olga321/3434
+#EXTINF:-1,US: FXX
+http://thenew.tv:8000/Olga123/Olga321/3433
+#EXTINF:-1,US: FYI
+http://thenew.tv:8000/Olga123/Olga321/3432
+#EXTINF:-1,US: Game Show Network
+http://thenew.tv:8000/Olga123/Olga321/3612
+#EXTINF:-1,US: HALLMARK
+http://thenew.tv:8000/Olga123/Olga321/3430
+#EXTINF:-1,US: HALLMARK M&M
+http://thenew.tv:8000/Olga123/Olga321/3428
+#EXTINF:-1,US: HGTV HD
+http://thenew.tv:8000/Olga123/Olga321/3427
+#EXTINF:-1,US: HISTORY HD
+http://thenew.tv:8000/Olga123/Olga321/3426
+#EXTINF:-1,US: HLN
+http://thenew.tv:8000/Olga123/Olga321/3383
+#EXTINF:-1,US:INVESTIGATION DISCOVERY
+http://thenew.tv:8000/Olga123/Olga321/3425
+#EXTINF:-1,US: ION HD
+http://thenew.tv:8000/Olga123/Olga321/3424
+#EXTINF:-1,US: LIFETIME
+http://thenew.tv:8000/Olga123/Olga321/3423
+#EXTINF:-1,US:LIFETIME MOVIES
+http://thenew.tv:8000/Olga123/Olga321/3422
+#EXTINF:-1,US: MTV
+http://thenew.tv:8000/Olga123/Olga321/3420
+#EXTINF:-1,US: MTV 2
+http://thenew.tv:8000/Olga123/Olga321/40362
+#EXTINF:-1,US: MGM HD
+http://thenew.tv:8000/Olga123/Olga321/3382
+#EXTINF:-1,US: National Geographic HD
+http://thenew.tv:8000/Olga123/Olga321/3419
+#EXTINF:-1,US: NAT GEO WILD HD
+http://thenew.tv:8000/Olga123/Olga321/3418
+#EXTINF:-1,US:NBC
+http://thenew.tv:8000/Olga123/Olga321/3417
+#EXTINF:-1,US:NBC EAST HD
+http://thenew.tv:8000/Olga123/Olga321/3416
+#EXTINF:-1,US: NBC Telemundo
+http://thenew.tv:8000/Olga123/Olga321/3380
+#EXTINF:-1,US: Nick JR HD
+http://thenew.tv:8000/Olga123/Olga321/3415
+#EXTINF:-1,US: NICK jr
+http://thenew.tv:8000/Olga123/Olga321/3414
+#EXTINF:-1,US: Teen Nick HD
+http://thenew.tv:8000/Olga123/Olga321/40363
+#EXTINF:-1,US: NICKELODEON
+http://thenew.tv:8000/Olga123/Olga321/3413
+#EXTINF:-1,US:OWN
+http://thenew.tv:8000/Olga123/Olga321/3412
+#EXTINF:-1,US: OXYGEN HD
+http://thenew.tv:8000/Olga123/Olga321/3411
+#EXTINF:-1,US: PBS
+http://thenew.tv:8000/Olga123/Olga321/3410
+#EXTINF:-1,US:PBS KIDS
+http://thenew.tv:8000/Olga123/Olga321/3409
+#EXTINF:-1,US: POP TV HD
+http://thenew.tv:8000/Olga123/Olga321/38445
+#EXTINF:-1,US: SPIKE TV
+http://thenew.tv:8000/Olga123/Olga321/3408
+#EXTINF:-1,US: SYFY
+http://thenew.tv:8000/Olga123/Olga321/3407
+#EXTINF:-1,US: TBN
+http://thenew.tv:8000/Olga123/Olga321/3406
+#EXTINF:-1,US: TBS HD
+http://thenew.tv:8000/Olga123/Olga321/3405
+#EXTINF:-1,US: TCM
+http://thenew.tv:8000/Olga123/Olga321/3378
+#EXTINF:-1,US: THE WEATHER CHANNEL
+http://thenew.tv:8000/Olga123/Olga321/3404
+#EXTINF:-1,US: TLC
+http://thenew.tv:8000/Olga123/Olga321/3403
+#EXTINF:-1,US: TNT
+http://thenew.tv:8000/Olga123/Olga321/3402
+#EXTINF:-1,US: TRAVEL CHANNEL
+http://thenew.tv:8000/Olga123/Olga321/3401
+#EXTINF:-1,US: TRU TV
+http://thenew.tv:8000/Olga123/Olga321/3400
+#EXTINF:-1,US: TV ONE
+http://thenew.tv:8000/Olga123/Olga321/3398
+#EXTINF:-1,US: UNIVERSAL KIDS
+http://thenew.tv:8000/Olga123/Olga321/3397
+#EXTINF:-1,US: USA Network HD
+http://thenew.tv:8000/Olga123/Olga321/3396
+#EXTINF:-1,US: VH1
+http://thenew.tv:8000/Olga123/Olga321/3394
+#EXTINF:-1,US: VICELAND
+http://thenew.tv:8000/Olga123/Olga321/3393
+#EXTINF:-1,US:C-SPAN 1
+http://thenew.tv:8000/Olga123/Olga321/62949
+#EXTINF:-1,US:C-SPAN 2
+http://thenew.tv:8000/Olga123/Olga321/62948
+#EXTINF:-1,US:C-SPAN 3
+http://thenew.tv:8000/Olga123/Olga321/62947
+#EXTINF:-1,US: ESPN 3 HD
+http://thenew.tv:8000/Olga123/Olga321/31829
+#EXTINF:-1,US: FOX SPORTS MID WEST HD
+http://thenew.tv:8000/Olga123/Olga321/6339
+#EXTINF:-1,US: FUEL TV HD
+http://thenew.tv:8000/Olga123/Olga321/32773
+#EXTINF:-1,US: MLB NETWORK HD
+http://thenew.tv:8000/Olga123/Olga321/74013
+#EXTINF:-1,US: NBCSN Sport Philadelphia Plus
+http://thenew.tv:8000/Olga123/Olga321/41332
+#EXTINF:-1,US: beIN Sports HD 2
+http://thenew.tv:8000/Olga123/Olga321/6760
+#EXTINF:-1,US: beIN Sports HD 9
+http://thenew.tv:8000/Olga123/Olga321/6756
+#EXTINF:-1,US: KEEP IT COUNTRY
+http://thenew.tv:8000/Olga123/Olga321/7769
+#EXTINF:-1,US: Music Choice Alternative
+http://thenew.tv:8000/Olga123/Olga321/7766
+#EXTINF:-1,US: Music Choice Brits Hits
+http://thenew.tv:8000/Olga123/Olga321/7765
+#EXTINF:-1,US: Music Choice Dance
+http://thenew.tv:8000/Olga123/Olga321/7764
+#EXTINF:-1,US: Music Choice HIP HOP & R&B
+http://thenew.tv:8000/Olga123/Olga321/7763
+#EXTINF:-1,US: Music Choice Hit List
+http://thenew.tv:8000/Olga123/Olga321/7762
+#EXTINF:-1,US: Music Choice Indie
+http://thenew.tv:8000/Olga123/Olga321/7761
+#EXTINF:-1,US: Music Choice Metal
+http://thenew.tv:8000/Olga123/Olga321/7760
+#EXTINF:-1,US: Music Choice Mexican
+http://thenew.tv:8000/Olga123/Olga321/7759
+#EXTINF:-1,US: KIDS READING TV
+http://thenew.tv:8000/Olga123/Olga321/20897
+#EXTINF:-1,US: VEVO FHD
+http://thenew.tv:8000/Olga123/Olga321/21173
+#EXTINF:-1,US: CINEMAX HD
+http://thenew.tv:8000/Olga123/Olga321/40499
+#EXTINF:-1,US: EPIX
+http://thenew.tv:8000/Olga123/Olga321/40496
+#EXTINF:-1,US: Ride TV
+http://thenew.tv:8000/Olga123/Olga321/48137
+#EXTINF:-1,US:  ABC 2 Atlanta
+http://thenew.tv:8000/Olga123/Olga321/59726
+#EXTINF:-1,US:  ABC 2 Baltimore
+http://thenew.tv:8000/Olga123/Olga321/59725
+#EXTINF:-1,US:  ABC 2 Nashville
+http://thenew.tv:8000/Olga123/Olga321/59724
+#EXTINF:-1,US:  ABC 2 Portland
+http://thenew.tv:8000/Olga123/Olga321/59723
+#EXTINF:-1,US:  ABC 4 Pittsburgh
+http://thenew.tv:8000/Olga123/Olga321/59722
+#EXTINF:-1,US:  ABC 4 Salt Lake
+http://thenew.tv:8000/Olga123/Olga321/59721
+#EXTINF:-1,US:  ABC 4 Salt Lake City
+http://thenew.tv:8000/Olga123/Olga321/59720
+#EXTINF:-1,US:  ABC 4 Seattle
+http://thenew.tv:8000/Olga123/Olga321/59719
+#EXTINF:-1,US:  ABC 5 Boston
+http://thenew.tv:8000/Olga123/Olga321/59718
+#EXTINF:-1,US:  ABC 5 Cleveland
+http://thenew.tv:8000/Olga123/Olga321/59717
+#EXTINF:-1,US:  ABC 5 Minneapolis
+http://thenew.tv:8000/Olga123/Olga321/59716
+#EXTINF:-1,US:  ABC 5 Minnesota
+http://thenew.tv:8000/Olga123/Olga321/59715
+#EXTINF:-1,US: ABC 5 St. Paul
+http://thenew.tv:8000/Olga123/Olga321/59714
+#EXTINF:-1,US:  ABC 6 Columbus
+http://thenew.tv:8000/Olga123/Olga321/59713
+#EXTINF:-1,US:  ABC 6 Indiana
+http://thenew.tv:8000/Olga123/Olga321/59712
+#EXTINF:-1,US:  ABC 6 Indianapolis
+http://thenew.tv:8000/Olga123/Olga321/59711
+#EXTINF:-1,US:  ABC 6 NJ/PA
+http://thenew.tv:8000/Olga123/Olga321/59710
+#EXTINF:-1,US:  ABC 6 Philadelphia
+http://thenew.tv:8000/Olga123/Olga321/59709
+#EXTINF:-1,US:  ABC 7 Bay Area
+http://thenew.tv:8000/Olga123/Olga321/59708
+#EXTINF:-1,US:  ABC 7 Chicago *
+http://thenew.tv:8000/Olga123/Olga321/59707
+#EXTINF:-1,US:  ABC 7 Denver
+http://thenew.tv:8000/Olga123/Olga321/59706
+#EXTINF:-1,US:  ABC 7 Detroit
+http://thenew.tv:8000/Olga123/Olga321/59705
+#EXTINF:-1,US:  ABC 7 Miami
+http://thenew.tv:8000/Olga123/Olga321/59704
+#EXTINF:-1,US:  ABC 7 News San Francisco
+http://thenew.tv:8000/Olga123/Olga321/59703
+#EXTINF:-1,US: ABC 7 Washington
+http://thenew.tv:8000/Olga123/Olga321/59702
+#EXTINF:-1,US:  ABC 7 Wash  DC
+http://thenew.tv:8000/Olga123/Olga321/59701
+#EXTINF:-1,US:  ABC 8  New Haven
+http://thenew.tv:8000/Olga123/Olga321/59700
+#EXTINF:-1,US:  ABC 8 Dallas
+http://thenew.tv:8000/Olga123/Olga321/59699
+#EXTINF:-1,US:  ABC 9 Charlotte
+http://thenew.tv:8000/Olga123/Olga321/59698
+#EXTINF:-1,US:  ABC 9 Kansas City
+http://thenew.tv:8000/Olga123/Olga321/59697
+#EXTINF:-1,US:  ABC 9 Orlando
+http://thenew.tv:8000/Olga123/Olga321/59696
+#EXTINF:-1,US:  ABC 10 Sacramento
+http://thenew.tv:8000/Olga123/Olga321/59694
+#EXTINF:-1,US:  ABC 10 San Diego
+http://thenew.tv:8000/Olga123/Olga321/59693
+#EXTINF:-1,US:  ABC 11 Raleigh
+http://thenew.tv:8000/Olga123/Olga321/59692
+#EXTINF:-1,US:  ABC 12 Milwaukee
+http://thenew.tv:8000/Olga123/Olga321/59690
+#EXTINF:-1,US:  ABC 12 San Antonio
+http://thenew.tv:8000/Olga123/Olga321/59691
+#EXTINF:-1,US: ABC 12 Wisconsin
+http://thenew.tv:8000/Olga123/Olga321/59689
+#EXTINF:-1,US: ABC 13 GRAND RAPIDS
+http://thenew.tv:8000/Olga123/Olga321/61187
+#EXTINF:-1,US:  ABC 13 Houston
+http://thenew.tv:8000/Olga123/Olga321/59688
+#EXTINF:-1,US: ABC 15 ARIZONA
+http://thenew.tv:8000/Olga123/Olga321/59687
+#EXTINF:-1,US:  ABC 15 Phoenix
+http://thenew.tv:8000/Olga123/Olga321/59686
+#EXTINF:-1,US:  ABC 16 SCRANTON
+http://thenew.tv:8000/Olga123/Olga321/59685
+#EXTINF:-1,US:  ABC 28 Tampa
+http://thenew.tv:8000/Olga123/Olga321/59684
+#EXTINF:-1,US:  ABC 30 Fresno
+http://thenew.tv:8000/Olga123/Olga321/59683
+#EXTINF:-1,US: ABC 30 STLOUIS
+http://thenew.tv:8000/Olga123/Olga321/59682
+#EXTINF:-1,US:  CBS 2 Chicago
+http://thenew.tv:8000/Olga123/Olga321/59780
+#EXTINF:-1,US:  CBS 2 Greensboro
+http://thenew.tv:8000/Olga123/Olga321/59779
+#EXTINF:-1,US:  CBS 2 New York
+http://thenew.tv:8000/Olga123/Olga321/59778
+#EXTINF:-1,US:  CBS 2 Pittsburgh
+http://thenew.tv:8000/Olga123/Olga321/59777
+#EXTINF:-1,US:  CBS 2 Reno NV
+http://thenew.tv:8000/Olga123/Olga321/59776
+#EXTINF:-1,US:  CBS 2 Salt Lake City
+http://thenew.tv:8000/Olga123/Olga321/59775
+#EXTINF:-1,US:  CBS 3 Charlotte
+http://thenew.tv:8000/Olga123/Olga321/59774
+#EXTINF:-1,US:  CBS 3 Connecticut
+http://thenew.tv:8000/Olga123/Olga321/59773
+#EXTINF:-1,US:  CBS 3 Hartford
+http://thenew.tv:8000/Olga123/Olga321/59772
+#EXTINF:-1,US:  CBS 3 Michigan
+http://thenew.tv:8000/Olga123/Olga321/59770
+#EXTINF:-1,US:  CBS 3 Omaha NE
+http://thenew.tv:8000/Olga123/Olga321/59769
+#EXTINF:-1,US:  CBS 3 Philadelphia
+http://thenew.tv:8000/Olga123/Olga321/59768
+#EXTINF:-1,US:  CBS 4 Boston
+http://thenew.tv:8000/Olga123/Olga321/59767
+#EXTINF:-1,US: CBS 4 Dallas
+http://thenew.tv:8000/Olga123/Olga321/74927
+#EXTINF:-1,US:  CBS 4 Denver
+http://thenew.tv:8000/Olga123/Olga321/59766
+#EXTINF:-1,US:  CBS 4 Minnesota
+http://thenew.tv:8000/Olga123/Olga321/59765
+#EXTINF:-1,US:  CBS 4 New Orleans
+http://thenew.tv:8000/Olga123/Olga321/59764
+#EXTINF:-1,US:  CBS 4 St. Louis
+http://thenew.tv:8000/Olga123/Olga321/59763
+#EXTINF:-1,US:  CBS 5 Honolulu HI
+http://thenew.tv:8000/Olga123/Olga321/59762
+#EXTINF:-1,US:  CBS 5 Kansas City
+http://thenew.tv:8000/Olga123/Olga321/59761
+#EXTINF:-1,US:  CBS 5 Nashville
+http://thenew.tv:8000/Olga123/Olga321/59760
+#EXTINF:-1,US:  CBS 5 Phoenix
+http://thenew.tv:8000/Olga123/Olga321/59759
+#EXTINF:-1,US:  CBS 5 San Antonio
+http://thenew.tv:8000/Olga123/Olga321/59757
+#EXTINF:-1,US: CBS 5 San Francisco
+http://thenew.tv:8000/Olga123/Olga321/72000
+#EXTINF:-1,US:  CBS 6 Orlando
+http://thenew.tv:8000/Olga123/Olga321/59758
+#EXTINF:-1,US:  CBS 7 Seattle
+http://thenew.tv:8000/Olga123/Olga321/59756
+#EXTINF:-1,US:  CBS 8 Des Moines
+http://thenew.tv:8000/Olga123/Olga321/59755
+#EXTINF:-1,US:  CBS 8 Knoxville TN
+http://thenew.tv:8000/Olga123/Olga321/59754
+#EXTINF:-1,US:  CBS 8 San Diego
+http://thenew.tv:8000/Olga123/Olga321/59753
+#EXTINF:-1,US:  CBS 9 Baton Rouge
+http://thenew.tv:8000/Olga123/Olga321/59752
+#EXTINF:-1,US:  CBS 9 Oklahoma City OK
+http://thenew.tv:8000/Olga123/Olga321/59751
+#EXTINF:-1,US:  CBS 9 Washington DC
+http://thenew.tv:8000/Olga123/Olga321/59750
+#EXTINF:-1,US:  CBS 10 Columbus
+http://thenew.tv:8000/Olga123/Olga321/59749
+#EXTINF:-1,US:  CBS 10 Tampa
+http://thenew.tv:8000/Olga123/Olga321/59748
+#EXTINF:-1,US:  CBS 10 Tampa Bay
+http://thenew.tv:8000/Olga123/Olga321/59747
+#EXTINF:-1,US:  CBS 10 Waco TX
+http://thenew.tv:8000/Olga123/Olga321/59746
+#EXTINF:-1,US:  CBS 11 Houston
+http://thenew.tv:8000/Olga123/Olga321/59745
+#EXTINF:-1,US:  CBS 11 Little Rock AR
+http://thenew.tv:8000/Olga123/Olga321/59744
+#EXTINF:-1,US:  CBS 11 Savannah GA
+http://thenew.tv:8000/Olga123/Olga321/59743
+#EXTINF:-1,US:  CBS 12 Cincinatti
+http://thenew.tv:8000/Olga123/Olga321/59742
+#EXTINF:-1,US:  CBS 12 Shreveport LA
+http://thenew.tv:8000/Olga123/Olga321/59741
+#EXTINF:-1,US:  CBS 12 West Palm Beach
+http://thenew.tv:8000/Olga123/Olga321/59740
+#EXTINF:-1,US:  CBS 13 Macon GA
+http://thenew.tv:8000/Olga123/Olga321/59739
+#EXTINF:-1,US:  CBS 13 Sacramento
+http://thenew.tv:8000/Olga123/Olga321/59738
+#EXTINF:-1,US:  CBS 19 Cleveland
+http://thenew.tv:8000/Olga123/Olga321/59737
+#EXTINF:-1,US:  CBS 19 Columbia SC
+http://thenew.tv:8000/Olga123/Olga321/59736
+#EXTINF:-1,US:  CBS 21 Harrisburg
+http://thenew.tv:8000/Olga123/Olga321/59735
+#EXTINF:-1,US:  CBS 22 PA
+http://thenew.tv:8000/Olga123/Olga321/59734
+#EXTINF:-1,US:  CBS 32 Louisville KY
+http://thenew.tv:8000/Olga123/Olga321/59732
+#EXTINF:-1,US:  CBS 42 Austin
+http://thenew.tv:8000/Olga123/Olga321/59731
+#EXTINF:-1,US:  CBS 47 Jacksonville FL
+http://thenew.tv:8000/Olga123/Olga321/59730
+#EXTINF:-1,US:  CBS 58 Milwaukee
+http://thenew.tv:8000/Olga123/Olga321/59729
+#EXTINF:-1,US:  CBS 58 Wisconsin
+http://thenew.tv:8000/Olga123/Olga321/59728
+#EXTINF:-1,US:  CBS 62 Detroit
+http://thenew.tv:8000/Olga123/Olga321/59727
+#EXTINF:-1,US: FOX East
+http://thenew.tv:8000/Olga123/Olga321/60032
+#EXTINF:-1,US:  FOX Life
+http://thenew.tv:8000/Olga123/Olga321/60059
+#EXTINF:-1,US:  FOX WEST
+http://thenew.tv:8000/Olga123/Olga321/60055
+#EXTINF:-1,US: FOX 2
+http://thenew.tv:8000/Olga123/Olga321/60049
+#EXTINF:-1,US: FOX 2 Bay Area
+http://thenew.tv:8000/Olga123/Olga321/60048
+#EXTINF:-1,US:  FOX 2 Detroit
+http://thenew.tv:8000/Olga123/Olga321/59944
+#EXTINF:-1,US:  FOX 2  St Louis
+http://thenew.tv:8000/Olga123/Olga321/59945
+#EXTINF:-1,US:  CBS 3 Kalamazoo
+http://thenew.tv:8000/Olga123/Olga321/59771
+#EXTINF:-1,US:  FOX 4 Dallas
+http://thenew.tv:8000/Olga123/Olga321/59941
+#EXTINF:-1,US:  Fox 4 Kansas City
+http://thenew.tv:8000/Olga123/Olga321/59942
+#EXTINF:-1,US:  FOX 5 Atlanta
+http://thenew.tv:8000/Olga123/Olga321/59940
+#EXTINF:-1,US:  FOX 5 Las Vegas
+http://thenew.tv:8000/Olga123/Olga321/59939
+#EXTINF:-1,US:  FOX 5 New York
+http://thenew.tv:8000/Olga123/Olga321/59938
+#EXTINF:-1,US:  FOX 5 San Diego
+http://thenew.tv:8000/Olga123/Olga321/59937
+#EXTINF:-1,US:  FOX 5 Waga
+http://thenew.tv:8000/Olga123/Olga321/59936
+#EXTINF:-1,US:  FOX 5 Wash DC
+http://thenew.tv:8000/Olga123/Olga321/59935
+#EXTINF:-1,US:  FOX 6 Milwaukee
+http://thenew.tv:8000/Olga123/Olga321/59934
+#EXTINF:-1,US:  FOX 7  Austin TX
+http://thenew.tv:8000/Olga123/Olga321/59933
+#EXTINF:-1,US:  FOX 7 Miami
+http://thenew.tv:8000/Olga123/Olga321/59932
+#EXTINF:-1,US:  FOX 8  New Orleans
+http://thenew.tv:8000/Olga123/Olga321/59931
+#EXTINF:-1,US:  FOX 8 Cleveland
+http://thenew.tv:8000/Olga123/Olga321/59930
+#EXTINF:-1,US:  FOX 9 Minneapolis
+http://thenew.tv:8000/Olga123/Olga321/59929
+#EXTINF:-1,US: FOX 10 Arizona
+http://thenew.tv:8000/Olga123/Olga321/60054
+#EXTINF:-1,US: FOX 10 XTRA ARIZONA
+http://thenew.tv:8000/Olga123/Olga321/60053
+#EXTINF:-1,US:  FOX 10 Phoenix
+http://thenew.tv:8000/Olga123/Olga321/59928
+#EXTINF:-1,US: FOX 10 Xtra Phoenix
+http://thenew.tv:8000/Olga123/Olga321/60052
+#EXTINF:-1,US:  Fox 11 Greenbay
+http://thenew.tv:8000/Olga123/Olga321/59927
+#EXTINF:-1,US:  FOX 11 Los Angeles
+http://thenew.tv:8000/Olga123/Olga321/59926
+#EXTINF:-1,US:  FOX 12  Portland
+http://thenew.tv:8000/Olga123/Olga321/59925
+#EXTINF:-1,US:  FOX 13 Memphis
+http://thenew.tv:8000/Olga123/Olga321/59924
+#EXTINF:-1,US: FOX MY13 Los Angeles
+http://thenew.tv:8000/Olga123/Olga321/60031
+#EXTINF:-1,US:  FOX 13 Salt Lake City
+http://thenew.tv:8000/Olga123/Olga321/59923
+#EXTINF:-1,US:  FOX 13 Seattle
+http://thenew.tv:8000/Olga123/Olga321/59922
+#EXTINF:-1,US:  FOX 13 Tacoma
+http://thenew.tv:8000/Olga123/Olga321/59921
+#EXTINF:-1,US:  FOX 13 Tampa
+http://thenew.tv:8000/Olga123/Olga321/59920
+#EXTINF:-1,US:  FOX 17 Nashville
+http://thenew.tv:8000/Olga123/Olga321/59919
+#EXTINF:-1,US:  FOX 19 Cincinnati
+http://thenew.tv:8000/Olga123/Olga321/59918
+#EXTINF:-1,US:  CBS 22 Scranton PA
+http://thenew.tv:8000/Olga123/Olga321/59733
+#EXTINF:-1,US: FOX MY20 Houston
+http://thenew.tv:8000/Olga123/Olga321/60030
+#EXTINF:-1,US:  FOX 24 Baltimore
+http://thenew.tv:8000/Olga123/Olga321/59943
+#EXTINF:-1,US:  FOX 24 Wisconsin
+http://thenew.tv:8000/Olga123/Olga321/59917
+#EXTINF:-1,US: FOX 25 Boston
+http://thenew.tv:8000/Olga123/Olga321/68879
+#EXTINF:-1,US:  FOX 26 Houston
+http://thenew.tv:8000/Olga123/Olga321/59916
+#EXTINF:-1,US:  FOX 26 Wilmington
+http://thenew.tv:8000/Olga123/Olga321/59915
+#EXTINF:-1,US:  FOX 28 Columbus
+http://thenew.tv:8000/Olga123/Olga321/59914
+#EXTINF:-1,US:  FOX 29  Buffalo NY
+http://thenew.tv:8000/Olga123/Olga321/59913
+#EXTINF:-1,US:  FOX 29 Philadelphia
+http://thenew.tv:8000/Olga123/Olga321/59912
+#EXTINF:-1,US:  FOX 29 San Antonio
+http://thenew.tv:8000/Olga123/Olga321/59911
+#EXTINF:-1,US:  FOX 30 Jacksonville
+http://thenew.tv:8000/Olga123/Olga321/59910
+#EXTINF:-1,US:  FOX 31  Denver
+http://thenew.tv:8000/Olga123/Olga321/59909
+#EXTINF:-1,US:  FOX 32  Chicago
+http://thenew.tv:8000/Olga123/Olga321/59908
+#EXTINF:-1,US:  FOX 35 Orlando
+http://thenew.tv:8000/Olga123/Olga321/59907
+#EXTINF:-1,US:  FOX 40 Sacramento
+http://thenew.tv:8000/Olga123/Olga321/59906
+#EXTINF:-1,US:  FOX 43 PA
+http://thenew.tv:8000/Olga123/Olga321/59905
+#EXTINF:-1,US:  FOX 44 Baton Rouge
+http://thenew.tv:8000/Olga123/Olga321/59904
+#EXTINF:-1,US:  FOX 45  Baltimore
+http://thenew.tv:8000/Olga123/Olga321/59903
+#EXTINF:-1,US:  FOX 45 Baltimore
+http://thenew.tv:8000/Olga123/Olga321/59902
+#EXTINF:-1,US:  FOX 46  Belmont
+http://thenew.tv:8000/Olga123/Olga321/59901
+#EXTINF:-1,US:  FOX 46  Charlotte
+http://thenew.tv:8000/Olga123/Olga321/59900
+#EXTINF:-1,US:  Fox 46 Charlotte OH
+http://thenew.tv:8000/Olga123/Olga321/59899
+#EXTINF:-1,US:  FOX 47 Lansing MI
+http://thenew.tv:8000/Olga123/Olga321/59898
+#EXTINF:-1,US: FOX MY50
+http://thenew.tv:8000/Olga123/Olga321/60029
+#EXTINF:-1,US:  FOX 50  Raleigh
+http://thenew.tv:8000/Olga123/Olga321/59897
+#EXTINF:-1,US:  Fox 51 Gainesville
+http://thenew.tv:8000/Olga123/Olga321/59896
+#EXTINF:-1,US:  FOX 53 Pittsburg
+http://thenew.tv:8000/Olga123/Olga321/59895
+#EXTINF:-1,US:  Fox 59 Indianapolis
+http://thenew.tv:8000/Olga123/Olga321/59893
+#EXTINF:-1,US:  Fox 61 Hartford CT
+http://thenew.tv:8000/Olga123/Olga321/59892
+#EXTINF:-1,US: FOX MY65 Orlando
+http://thenew.tv:8000/Olga123/Olga321/60028
+#EXTINF:-1,US:  NBC 2 Buffalo NY
+http://thenew.tv:8000/Olga123/Olga321/60003
+#EXTINF:-1,US:  NBC 2 Houston
+http://thenew.tv:8000/Olga123/Olga321/60002
+#EXTINF:-1,US:  NBC 2 Jacksonville
+http://thenew.tv:8000/Olga123/Olga321/60001
+#EXTINF:-1,US:  NBC 2 Orlando
+http://thenew.tv:8000/Olga123/Olga321/60000
+#EXTINF:-1,US:  NBC 3 Cleveland
+http://thenew.tv:8000/Olga123/Olga321/59999
+#EXTINF:-1,US:  NBC 3 Jackson MS
+http://thenew.tv:8000/Olga123/Olga321/59998
+#EXTINF:-1,US:  NBC 3 Sacramento
+http://thenew.tv:8000/Olga123/Olga321/59997
+#EXTINF:-1,US:  NBC 4 Detroit
+http://thenew.tv:8000/Olga123/Olga321/59993
+#EXTINF:-1,US:  NBC 4 Los Angeles
+http://thenew.tv:8000/Olga123/Olga321/59992
+#EXTINF:-1,US:  NBC 4 Nashville
+http://thenew.tv:8000/Olga123/Olga321/59991
+#EXTINF:-1,US:  NBC 4 New York
+http://thenew.tv:8000/Olga123/Olga321/59990
+#EXTINF:-1,US:  NBC 4  San Antonio
+http://thenew.tv:8000/Olga123/Olga321/59994
+#EXTINF:-1,US:  NBC 4  Milwuakee
+http://thenew.tv:8000/Olga123/Olga321/59995
+#EXTINF:-1,US: NBC 4 Washington
+http://thenew.tv:8000/Olga123/Olga321/59989
+#EXTINF:-1,US:  NBC 4   Washington DC
+http://thenew.tv:8000/Olga123/Olga321/59996
+#EXTINF:-1,US:  NBC 4 Wisconsin
+http://thenew.tv:8000/Olga123/Olga321/59988
+#EXTINF:-1,US:  NBC 5 Chicago
+http://thenew.tv:8000/Olga123/Olga321/59987
+#EXTINF:-1,US:  NBC 5 Cincinnati
+http://thenew.tv:8000/Olga123/Olga321/59986
+#EXTINF:-1,US:  NBC 5 Dallas
+http://thenew.tv:8000/Olga123/Olga321/59985
+#EXTINF:-1,US:  NBC 5 Memphis
+http://thenew.tv:8000/Olga123/Olga321/59984
+#EXTINF:-1,US:  NBC 5 Salt Lake City
+http://thenew.tv:8000/Olga123/Olga321/59983
+#EXTINF:-1,US:  NBC 5 Seattle WA
+http://thenew.tv:8000/Olga123/Olga321/59982
+#EXTINF:-1,US:  NBC 5 St. Louis
+http://thenew.tv:8000/Olga123/Olga321/59981
+#EXTINF:-1,US:  NBC 6  Miami
+http://thenew.tv:8000/Olga123/Olga321/59980
+#EXTINF:-1,US:  NBC 6 New Orleans
+http://thenew.tv:8000/Olga123/Olga321/59979
+#EXTINF:-1,US:  NBC 6 Omaha NE
+http://thenew.tv:8000/Olga123/Olga321/59978
+#EXTINF:-1,US:  NBC 6 Portland ME
+http://thenew.tv:8000/Olga123/Olga321/59977
+#EXTINF:-1,US:  NBC 7 Boise ID
+http://thenew.tv:8000/Olga123/Olga321/59976
+#EXTINF:-1,US:  NBC 7 San Diego
+http://thenew.tv:8000/Olga123/Olga321/59975
+#EXTINF:-1,US:  NBC 8 Boston
+http://thenew.tv:8000/Olga123/Olga321/59974
+#EXTINF:-1,US:  NBC 8 Portland
+http://thenew.tv:8000/Olga123/Olga321/59973
+#EXTINF:-1,US:  NBC 10 Boston
+http://thenew.tv:8000/Olga123/Olga321/59971
+#EXTINF:-1,US:  NBC 10 Columbia SC
+http://thenew.tv:8000/Olga123/Olga321/59970
+#EXTINF:-1,US:  NBC 10 Knoxville TN
+http://thenew.tv:8000/Olga123/Olga321/59969
+#EXTINF:-1,US:  NBC 10 Lansing MI
+http://thenew.tv:8000/Olga123/Olga321/59968
+#EXTINF:-1,US:  NBC 10 Rochester
+http://thenew.tv:8000/Olga123/Olga321/59967
+#EXTINF:-1,US:  NBC 11  Pittsburgh
+http://thenew.tv:8000/Olga123/Olga321/59966
+#EXTINF:-1,US: NBC 10 Philadelphia
+http://thenew.tv:8000/Olga123/Olga321/70804
+#EXTINF:-1,US:  NBC 11 Atlanta
+http://thenew.tv:8000/Olga123/Olga321/59965
+#EXTINF:-1,US:  NBC 11 Baltimore MD
+http://thenew.tv:8000/Olga123/Olga321/59964
+#EXTINF:-1,US:  NBC 11 Bay Area
+http://thenew.tv:8000/Olga123/Olga321/59963
+#EXTINF:-1,US:  NBC 11 Fargo ND
+http://thenew.tv:8000/Olga123/Olga321/59962
+#EXTINF:-1,US:  NBC 11 Minneapolis
+http://thenew.tv:8000/Olga123/Olga321/59961
+#EXTINF:-1,US:  NBC 11 Minnesota
+http://thenew.tv:8000/Olga123/Olga321/59960
+#EXTINF:-1,US:  NBC 12 Jacksonville FL
+http://thenew.tv:8000/Olga123/Olga321/59959
+#EXTINF:-1,US:  NBC 12 Milwaukee
+http://thenew.tv:8000/Olga123/Olga321/59958
+#EXTINF:-1,US:  NBC 12 Phoenix
+http://thenew.tv:8000/Olga123/Olga321/59957
+#EXTINF:-1,US:  NBC 12 Richmond VA
+http://thenew.tv:8000/Olga123/Olga321/59956
+#EXTINF:-1,US:  NBC 13  Indianapolis
+http://thenew.tv:8000/Olga123/Olga321/59955
+#EXTINF:-1,US:  NBC 18 Zanesville OH
+http://thenew.tv:8000/Olga123/Olga321/59954
+#EXTINF:-1,US:  NBC 26 Green Bay
+http://thenew.tv:8000/Olga123/Olga321/59953
+#EXTINF:-1,US:  NBC 30  Connecticut
+http://thenew.tv:8000/Olga123/Olga321/59952
+#EXTINF:-1,US:  NBC 36 Charlotte
+http://thenew.tv:8000/Olga123/Olga321/59951
+#EXTINF:-1,US:  NBC 39  Dallas
+http://thenew.tv:8000/Olga123/Olga321/59950
+#EXTINF:-1,US:  NBC 39  Las Vegas
+http://thenew.tv:8000/Olga123/Olga321/59949
+#EXTINF:-1,US:  NBC 40 Tucson AZ
+http://thenew.tv:8000/Olga123/Olga321/59948
+#EXTINF:-1,US:  NBC 41 Kansas
+http://thenew.tv:8000/Olga123/Olga321/59947
+#EXTINF:-1,US:  NBC 47 Houston
+http://thenew.tv:8000/Olga123/Olga321/59946
+#EXTINF:-1,US:  Telemundo
+http://thenew.tv:8000/Olga123/Olga321/60023
+#EXTINF:-1,US:  Telemundo 39
+http://thenew.tv:8000/Olga123/Olga321/60012
+#EXTINF:-1,US:  Telemundo 40
+http://thenew.tv:8000/Olga123/Olga321/60011
+#EXTINF:-1,US:  Telemundo 44
+http://thenew.tv:8000/Olga123/Olga321/60010
+#EXTINF:-1,US:  Telemundo 47
+http://thenew.tv:8000/Olga123/Olga321/60009
+#EXTINF:-1,US:  Telemundo 48
+http://thenew.tv:8000/Olga123/Olga321/60008
+#EXTINF:-1,US:  Telemundo 51
+http://thenew.tv:8000/Olga123/Olga321/60007
+#EXTINF:-1,US:  Telemundo 52
+http://thenew.tv:8000/Olga123/Olga321/60006
+#EXTINF:-1,US:  Telemundo 62
+http://thenew.tv:8000/Olga123/Olga321/60005
+#EXTINF:-1,US:  TELEMUNDO Chicago
+http://thenew.tv:8000/Olga123/Olga321/60022
+#EXTINF:-1,US:  Telemundo Denver
+http://thenew.tv:8000/Olga123/Olga321/60021
+#EXTINF:-1,US:  Telemundo Houston
+http://thenew.tv:8000/Olga123/Olga321/60020
+#EXTINF:-1,US:  TELEMUNDO Las Vegas
+http://thenew.tv:8000/Olga123/Olga321/60019
+#EXTINF:-1,US:  TELEMUNDO Los Angeles
+http://thenew.tv:8000/Olga123/Olga321/60018
+#EXTINF:-1,US:  TELEMUNDO Miami
+http://thenew.tv:8000/Olga123/Olga321/60017
+#EXTINF:-1,US:  TELEMUNDO New York
+http://thenew.tv:8000/Olga123/Olga321/60016
+#EXTINF:-1,US:  Telemundo Phoenix
+http://thenew.tv:8000/Olga123/Olga321/60015
+#EXTINF:-1,US:  Telemundo San Antonio
+http://thenew.tv:8000/Olga123/Olga321/60014
+#EXTINF:-1,US:  Telemundo Tucson
+http://thenew.tv:8000/Olga123/Olga321/60013
+#EXTINF:-1,US:  NEW ENGLAND CABLE NEWS
+http://thenew.tv:8000/Olga123/Olga321/60074
+#EXTINF:-1,US:  NEWS 12 Brooklyn
+http://thenew.tv:8000/Olga123/Olga321/60064
+#EXTINF:-1,US:  NEWS 12 Connecticut
+http://thenew.tv:8000/Olga123/Olga321/60067
+#EXTINF:-1,US:  NEWS 12 WESTCHESTER NY
+http://thenew.tv:8000/Olga123/Olga321/60068
+#EXTINF:-1,US: Miramar Beach - WDES BeachTV 32  NEWS ONLY
+http://thenew.tv:8000/Olga123/Olga321/60062
+#EXTINF:-1,US:  FOX 46 Charlotte
+http://thenew.tv:8000/Olga123/Olga321/60060
+#EXTINF:-1,US:  Fox 53 Pittsburgh
+http://thenew.tv:8000/Olga123/Olga321/59894
+#EXTINF:-1,US:  FOX Minneapolis
+http://thenew.tv:8000/Olga123/Olga321/60058
+#EXTINF:-1,US:  FOX Rochester
+http://thenew.tv:8000/Olga123/Olga321/60057
+#EXTINF:-1,US: FOX 12  Salt Lake City
+http://thenew.tv:8000/Olga123/Olga321/60051
+#EXTINF:-1,US: FOX 19 NOW CINY/KY
+http://thenew.tv:8000/Olga123/Olga321/60050
+#EXTINF:-1,US: FOX 2 ST LOUIS
+http://thenew.tv:8000/Olga123/Olga321/60047
+#EXTINF:-1,US: FOX 29 Buffalo
+http://thenew.tv:8000/Olga123/Olga321/60046
+#EXTINF:-1,US: FOX 29 Philadelphia PA
+http://thenew.tv:8000/Olga123/Olga321/60045
+#EXTINF:-1,US: FOX 30 JACKSONVILLE
+http://thenew.tv:8000/Olga123/Olga321/60044
+#EXTINF:-1,US: FOX 31 DENVER
+http://thenew.tv:8000/Olga123/Olga321/60043
+#EXTINF:-1,US: FOX 4 DALLAS
+http://thenew.tv:8000/Olga123/Olga321/60042
+#EXTINF:-1,US: FOX 4 KANSAS CITY
+http://thenew.tv:8000/Olga123/Olga321/60041
+#EXTINF:-1,US: FOX 40 SACRAMENTO
+http://thenew.tv:8000/Olga123/Olga321/60040
+#EXTINF:-1,US: FOX 5 SAN DIEGO
+http://thenew.tv:8000/Olga123/Olga321/60039
+#EXTINF:-1,US: FOX 59 INDIANAPOLIS
+http://thenew.tv:8000/Olga123/Olga321/60038
+#EXTINF:-1,US: FOX 6 MILWAUKEE
+http://thenew.tv:8000/Olga123/Olga321/60037
+#EXTINF:-1,US: FOX 61 CONNECTICUT
+http://thenew.tv:8000/Olga123/Olga321/60036
+#EXTINF:-1,US: FOX 8 CLEVELAND
+http://thenew.tv:8000/Olga123/Olga321/60035
+#EXTINF:-1,US: FOX 8 New Orleans LA
+http://thenew.tv:8000/Olga123/Olga321/60034
+#EXTINF:-1,US: FOX 9 Minneapolis MN
+http://thenew.tv:8000/Olga123/Olga321/60033
+#EXTINF:-1,US: FOX Q13 SEATTLE
+http://thenew.tv:8000/Olga123/Olga321/60027
+#EXTINF:-1,US: FOX San Antonio
+http://thenew.tv:8000/Olga123/Olga321/60026
+#EXTINF:-1,US: FOX West
+http://thenew.tv:8000/Olga123/Olga321/60025
+#EXTINF:-1,US: FOX WFTC MIN
+http://thenew.tv:8000/Olga123/Olga321/60024
+#EXTINF:-1,US: NBC 5 Chicago
+http://thenew.tv:8000/Olga123/Olga321/59972
+#EXTINF:-1,US: Times Square NY
+http://thenew.tv:8000/Olga123/Olga321/60061
+#EXTINF:-1,US: YES NETWORK
+http://thenew.tv:8000/Olga123/Olga321/61714
+#EXTINF:-1,US: ABC 6 (Philadelphia)
+http://thenew.tv:8000/Olga123/Olga321/70827
