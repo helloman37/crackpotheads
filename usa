@@ -14,7 +14,7 @@ http://live.savitar.tv/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8
 #EXTINF:-1,USA
 http://live.savitar.tv/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTkgOToyOToxMSBQTSZoYXNoX3ZhbHVlPWJ2M29Jczc0cUdieFhDdUdnRDFJaEE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA='
 #EXTINF:-1,SYFY
-http://live.savitar.tv/SYFY/myStream/playlist.m3u8?c2VydmVyX3RpbWU9Ni83LzIwMTkgOToyOToxMSBQTSZoYXNoX3ZhbHVlPWJ2M29Jczc0cUdieFhDdUdnRDFJaEE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA='
+http://live.savitar.tv/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTkgOToyOToxMSBQTSZoYXNoX3ZhbHVlPWJ2M29Jczc0cUdieFhDdUdnRDFJaEE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA='
 #EXTINF:-1,COMODY CENTRAL
 http://live.savitar.tv/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTkgOToyOToxMSBQTSZoYXNoX3ZhbHVlPWJ2M29Jczc0cUdieFhDdUdnRDFJaEE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA='
 #EXTINF:-1,TLC
