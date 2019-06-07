@@ -1,50 +1,52 @@
 #EXTM3U
 #EXTINF:-1,WELCOME TO FREE TV!
 #EXTINF:-1,WORKING
+#EXTINF:-1, CMT
+http://dibo.live:8080/live/pk10291/579365/76523.m3u8
 #EXTINF:-1, ABC FAMILY
 http://dibo.live:8080/live/pk10291/579365/76523.m3u8
 #EXTINF:-1,TNT
-http://live.savitar.tv/TNT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjoyMDo1MiBBTSZoYXNoX3ZhbHVlPThaUEExL09pbzdQS0t0eS9wckRiaVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/TNT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjoyMDo1MiBBTSZoYXNoX3ZhbHVlPThaUEExL09pbzdQS0t0eS9wckRiaVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=''
 #EXTINF:-1,NICK
-http://live.savitar.tv/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjoyMjo0NyBBTSZoYXNoX3ZhbHVlPUZKNURSc2ZDRGJlWjRsUmFVWENkZUE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjoyMjo0NyBBTSZoYXNoX3ZhbHVlPUZKNURSc2ZDRGJlWjRsUmFVWENkZUE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA='
 #EXTINF:-1,FX
-http://live.savitar.tv/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozMDozOCBBTSZoYXNoX3ZhbHVlPU5hU2p3eVRGNDM4NHh1NFYvbER0RkE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozMDozOCBBTSZoYXNoX3ZhbHVlPU5hU2p3eVRGNDM4NHh1NFYvbER0RkE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA='
 #EXTINF:-1,USA
-http://live.savitar.tv/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozMTo0OCBBTSZoYXNoX3ZhbHVlPXdxT3VyRnhLMm90c0VhK1g2ekxzY0E9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozMTo0OCBBTSZoYXNoX3ZhbHVlPXdxT3VyRnhLMm90c0VhK1g2ekxzY0E9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA='
 #EXTINF:-1,SYFY
-http://live.savitar.tv/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozMzowMSBBTSZoYXNoX3ZhbHVlPWJMbFIxUFpMN1RCZkh0R2NBMjBaZkE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozMzowMSBBTSZoYXNoX3ZhbHVlPWJMbFIxUFpMN1RCZkh0R2NBMjBaZkE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA='
 #EXTINF:-1,COMODY CENTRAL
-http://live.savitar.tv/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozMzozOSBBTSZoYXNoX3ZhbHVlPWppZHFGN1Y3WUc2L1V5bnZYVHQyakE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozMzozOSBBTSZoYXNoX3ZhbHVlPWppZHFGN1Y3WUc2L1V5bnZYVHQyakE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA='
 #EXTINF:-1,TLC
-http://live.savitar.tv/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozNDozNCBBTSZoYXNoX3ZhbHVlPWlmOXpZWkpoS1UrMjF6SGRabi95RVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozNDozNCBBTSZoYXNoX3ZhbHVlPWlmOXpZWkpoS1UrMjF6SGRabi95RVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA='
 #EXTINF:-1,TBS
-http://live.savitar.tv/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozNToyNCBBTSZoYXNoX3ZhbHVlPXZxV2dNcDJhTDRlWExDR1ZObW9xMXc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozNToyNCBBTSZoYXNoX3ZhbHVlPXZxV2dNcDJhTDRlWExDR1ZObW9xMXc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA='
 #EXTINF:-1,A&E
-http://live.savitar.tv/AE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozNjoxMSBBTSZoYXNoX3ZhbHVlPVBRRlU1cll6QXY3U0tMQzFWWFNUcmc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/AE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozNjoxMSBBTSZoYXNoX3ZhbHVlPVBRRlU1cll6QXY3U0tMQzFWWFNUcmc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA='
 #EXTINF:-1,DISNEY CHANNEL
-http://live.savitar.tv/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozNjo0NCBBTSZoYXNoX3ZhbHVlPU1RT3FRYWhtTEJJc1A0ekduL2lFQVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozNjo0NCBBTSZoYXNoX3ZhbHVlPU1RT3FRYWhtTEJJc1A0ekduL2lFQVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA='
 #EXTINF:-1,CARTOON NETWORK
-http://live.savitar.tv/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozNzoxOSBBTSZoYXNoX3ZhbHVlPXZlT3kxUTRNMzVjU1VDNVFmbFBVd2c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozNzoxOSBBTSZoYXNoX3ZhbHVlPXZlT3kxUTRNMzVjU1VDNVFmbFBVd2c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA='
 #EXTINF:-1,THE CW
-http://live.savitar.tv/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozNzo1NCBBTSZoYXNoX3ZhbHVlPURPNWRXazRIR2V2Vk8yeDA0R2czRHc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozNzo1NCBBTSZoYXNoX3ZhbHVlPURPNWRXazRIR2V2Vk8yeDA0R2czRHc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA='
 #EXTINF:-1,AMC
-http://live.savitar.tv/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozODo1MSBBTSZoYXNoX3ZhbHVlPWhVK3pFbG16Y0FLSGNobk1ZM2Iwb3c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozODo1MSBBTSZoYXNoX3ZhbHVlPWhVK3pFbG16Y0FLSGNobk1ZM2Iwb3c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA='
 #EXTINF:-1,WEATHER CHANNEL
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1,CBS
-http://live.savitar.tv/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozOTo0OCBBTSZoYXNoX3ZhbHVlPVdhbGRZOGtyZ3BkZjdZOFlhQ3ZzZUE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjozOTo0OCBBTSZoYXNoX3ZhbHVlPVdhbGRZOGtyZ3BkZjdZOFlhQ3ZzZUE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA='
 #EXTINF:-1,ABC
-http://live.savitar.tv/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjo0MDoyMSBBTSZoYXNoX3ZhbHVlPU01UmpOVmlaQzlZVXZ6YlBlM3NXcGc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjo0MDoyMSBBTSZoYXNoX3ZhbHVlPU01UmpOVmlaQzlZVXZ6YlBlM3NXcGc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA='
 #EXTINF:-1,NBC
-http://live.savitar.tv/NBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjo0MDo1MyBBTSZoYXNoX3ZhbHVlPUkyaENPeEE2SXNmMkVTdGpKUHBZUGc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/NBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjo0MDo1MyBBTSZoYXNoX3ZhbHVlPUkyaENPeEE2SXNmMkVTdGpKUHBZUGc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA='
 #EXTINF:-1,FOX
-http://live.savitar.tv/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjo0MToyMSBBTSZoYXNoX3ZhbHVlPTE1L1BrOGZHc1hSUkNjVlA1MmNnYlE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjo0MToyMSBBTSZoYXNoX3ZhbHVlPTE1L1BrOGZHc1hSUkNjVlA1MmNnYlE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA='
 #EXTINF:-1,CNN
-http://live.savitar.tv/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjo0MjowNiBBTSZoYXNoX3ZhbHVlPUtVbis3STBWeExOcStnOEtkOXF5eVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjo0MjowNiBBTSZoYXNoX3ZhbHVlPUtVbis3STBWeExOcStnOEtkOXF5eVE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA='
 #EXTINF:-1,INVESTIGATION DISCOVERY
-http://live.savitar.tv/ID/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjo0NTowNyBBTSZoYXNoX3ZhbHVlPXZRno4Q1VrQnVJbGZIN2o1NytIV3c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/ID/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjo0NTowNyBBTSZoYXNoX3ZhbHVlPXZRno4Q1VrQnVJbGZIN2o1NytIV3c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA='
 #EXTINF:-1,HISTORY
-http://live.savitar.tv/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjo0NjowNyBBTSZoYXNoX3ZhbHVlPTg3aWlGcHFDNGt1YlN3aktrYTJjNlE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjo0NjowNyBBTSZoYXNoX3ZhbHVlPTg3aWlGcHFDNGt1YlN3aktrYTJjNlE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA='
 #EXTINF:-1,WWE
 http://dibo.live:8080/live/pk10291/579365/77082.m3u8
 #EXTINF:-1,MTV
