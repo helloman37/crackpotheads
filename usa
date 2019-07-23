@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:0,LAFF TV
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,LAFF TV
 http://71.112.178.115:9981/stream/channelid/581331773
-#EXTINF:0,CHANNELS
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,CHANNELS
 https://bit.ly/usaatvs
