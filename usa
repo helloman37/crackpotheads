@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:0,581331773
+#EXTINF:0,LAFF TV
 #EXTVLCOPT:network-caching=1000
 http://71.112.178.115:9981/stream/channelid/581331773
