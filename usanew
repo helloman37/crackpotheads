@@ -493,6 +493,14 @@ https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play
 http://iptv.wtf:25461/feligfra/bkQ5k2r9A2/8529
 #EXTINF:-1 group-title="PPV",CINEMA 12
 http://10dollars.live:8080/DWmpS59r9/ironpony58/77648
+#EXTINF:-1 group-title="PPV",CINEMA 00
+http://www.pandar.tv:25461/028662264928/8PZXuUvs3UjBLlg/18633
+#EXTINF:-1 group-title="PPV",CINEMA 03
+http://iptvaction.xyz:8080/EYrXFsIBY6/xfFnTHIeGa/77657
+#EXTINF:-1 group-title="PPV",CINEMA 09
+http://tv.latintvweb.com:25461/garciar/pmGp3U9GhN/17147
+#EXTINF:-1 group-title="PPV",CINEMA 16
+http://iptv.wtf:25461/feligfra/bkQ5k2r9A2/8537
 #EXTINF:-1 group-title="PPV",EVENTS 4
 https://api.vpnmate.com/play/?vlc=1&channel=264962&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
 #EXTINF:-1 group-title="PPV",EVENTS 3
@@ -503,6 +511,12 @@ https://api.vpnmate.com/play/?vlc=1&channel=1106488&token=XXO2KFZn35M9:OWU0NGZkY
 https://api.vpnmate.com/play/?vlc=1&channel=1106487&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
 #EXTINF:-1 group-title="PPV",PPV 9
 https://api.vpnmate.com/play/?vlc=1&channel=1106486&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
+#EXTINF:-1 group-title="UFC",FIGHT PASS
+http://watch.gotdark.com:80/kelboomh@xs4all.nl/IkloginbijGetDark21/2438
+#EXTINF:-1 group-title="UFC",UFC NETWORK
+http://rocksat.ddns.net:25461/wE17OeGqM9/5ABmkVO69C/21621
+#EXTINF:-1 group-title="UFC",UFC PPV
+http://jammy.today:83/live/ByN90XRm/0KBtjG3k/363854.m3u8
 #EXTINF:-1 group-title="XxX CHANNELS",PLAYBOY FULL HD XxX
 http://deluxeplay.live:80/uqviuunk/Yv4Ino625z/18932
 #EXTINF:-1 group-title="XxX CHANNELS",XXX STARS HD XxX
