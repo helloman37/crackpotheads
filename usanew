@@ -195,6 +195,8 @@ https://api.vpnmate.com/play/?vlc=1&channel=200551&token=Bdf4vqpoh8_R:ODFiMDEyNj
 https://api.vpnmate.com/play/?vlc=1&channel=6077&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 #EXTINF:-1 group-title="USA CHANNELS",Fox Sports 1 (5025039)
 https://api.vpnmate.com/play/?vlc=1&channel=5025039&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 group-title="USA CHANNELS",Fox Movies
+http://cineplus.adetroniktv.com:8000/VelaSoft/hDZDEWo33I/133
 #EXTINF:-1 group-title="USA CHANNELS",Freeform (3005892)
 https://api.vpnmate.com/play/?vlc=1&channel=3005892&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 #EXTINF:-1 group-title="USA CHANNELS",FUSE TV (West) (3005891)
@@ -367,7 +369,7 @@ https://api.vpnmate.com/play/?vlc=1&channel=1018263&token=Bdf4vqpoh8_R:ODFiMDEyN
 https://api.vpnmate.com/play/?vlc=1&channel=3005864&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 #EXTINF:-1 group-title="USA CHANNELS",Showtime (west) US (1102832)
 https://api.vpnmate.com/play/?vlc=1&channel=1102832&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 group-title="USA CHANNELS",Showtime 2 (east) US (1018262)
+#EXTINF:-1 group-title="USA CHANNELS",Showtime 2 (east) US (1018262)
 https://api.vpnmate.com/play/?vlc=1&channel=1018262&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 #EXTINF:-1 group-title="USA CHANNELS",Showtime 2 (west) US (1018261)
 https://api.vpnmate.com/play/?vlc=1&channel=1018261&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
