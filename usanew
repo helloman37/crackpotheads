@@ -489,6 +489,20 @@ https://api.vpnmate.com/play/?vlc=1&channel=3008162&token=Bdf4vqpoh8_R:ODFiMDEyN
 http://71.112.178.115:9981/stream/channelid/581331773
 #EXTINF:-1 group-title="USA CHANNELS",MUSIC CHOICE
 https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 group-title="PPV",CINEMA 24
+http://iptv.wtf:25461/feligfra/bkQ5k2r9A2/8529
+#EXTINF:-1 group-title="PPV",CINEMA 12
+http://10dollars.live:8080/DWmpS59r9/ironpony58/77648
+#EXTINF:-1 group-title="PPV",EVENTS 4
+https://api.vpnmate.com/play/?vlc=1&channel=264962&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
+#EXTINF:-1 group-title="PPV",EVENTS 3
+https://api.vpnmate.com/play/?vlc=1&channel=264963&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
+#EXTINF:-1 group-title="PPV",PPV 7
+https://api.vpnmate.com/play/?vlc=1&channel=1106488&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
+#EXTINF:-1 group-title="PPV",PPV 8
+https://api.vpnmate.com/play/?vlc=1&channel=1106487&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
+#EXTINF:-1 group-title="PPV",PPV 9
+https://api.vpnmate.com/play/?vlc=1&channel=1106486&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
 #EXTINF:-1 group-title="XxX CHANNELS",PLAYBOY FULL HD XxX
 http://deluxeplay.live:80/uqviuunk/Yv4Ino625z/18932
 #EXTINF:-1 group-title="XxX CHANNELS",XXX STARS HD XxX
