@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="NIGGER",A&E US (1018515)
+https://api.vpnmate.com/play/?vlc=1&channel=1018515&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
 #EXTINF:0,A&E US (1018515)
 #EXTVLCOPT:network-caching=1000
 https://api.vpnmate.com/play/?vlc=1&channel=1018515&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
