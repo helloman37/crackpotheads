@@ -4,7 +4,7 @@ http://71.112.178.115:9981/stream/channelid/581331773
 #EXTINF:0, MUSIC CHOICE
 https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:0,PLAYBOY HD
-http://tv.minhalista.me:80/live/rsandrew/12345/41513.m3u8
+http://rocksat.ddns.net:25461/Jdb7ghAOa7/syvsYvg8lq/28608
 #EXTINF:-1 tvg-id="ae.east.us" tvg-name="ae.east.us" tvg-type="live" group-title="US" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/ae.east.us.png",A&E US (1018515)
 https://api.vpnmate.com/play/?vlc=1&channel=1018515&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
 #EXTINF:-1 tvg-id="ae.east.us" tvg-name="ae.east.us" tvg-type="live" group-title="US" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/ae.east.us.png",A&E US (200410)
