@@ -495,8 +495,6 @@ https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play
 https://api.vpnmate.com/play/?vlc=1&channel=1018210&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
 #EXTINF:-1 group-title="MUSIC",COUNTRY NETWORK
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
-#EXTINF:-1 group-title="MUSIC",POP TV
-https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
 #EXTINF:-1 group-title="PPV",CINEMA 24
 http://iptv.wtf:25461/feligfra/bkQ5k2r9A2/8529
 #EXTINF:-1 group-title="PPV",CINEMA 12
