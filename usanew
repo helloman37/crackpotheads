@@ -487,10 +487,12 @@ https://api.vpnmate.com/play/?vlc=1&channel=200521&token=5gZJiWm1Vxhv:YjU4NjU0Yj
 https://api.vpnmate.com/play/?vlc=1&channel=3005998&token=5gZJiWm1Vxhv:YjU4NjU0YjMxNjJiZjUxODU5YTg2ZTZlMmJhNTllYmYwYWE1NjZkOQ==
 #EXTINF:-1 group-title="USA CHANNELS",WPIX New York (3008162)
 https://api.vpnmate.com/play/?vlc=1&channel=3008162&token=5gZJiWm1Vxhv:YjU4NjU0YjMxNjJiZjUxODU5YTg2ZTZlMmJhNTllYmYwYWE1NjZkOQ==
-#EXTINF:-1 group-title="USA CHANNELS",LAFF TV
-http://71.112.178.115:9981/stream/channelid/581331773
+#EXTINF:-1 group-title="USA CHANNELS",HD MOVIE NETWORK
+https://nl2.streamlive.to/vlc/3mu6xhoy4xa8l7w/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMTkgODoxMToxNiBBTSZoYXNoX3ZhbHVlPVROTGV5UzloZnEvVXNsc254YXFrSHc9PSZ2YWxpZG1pbnV0ZXM9NjAmc3RybV9sZW49MTkmaWQ9MA==
 #EXTINF:-1 group-title="USA CHANNELS",MUSIC CHOICE
 https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 group-title="24/7",SOUTH PARK
+https://nl2.streamlive.to/vlc/p519222iwkn2t2x/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMTkgODoxMzoxNSBBTSZoYXNoX3ZhbHVlPUNQM3RaOGJ3ZVl4L3V1K1NGcHFhQ2c9PSZ2YWxpZG1pbnV0ZXM9NjAmc3RybV9sZW49MTkmaWQ9MA==
 #EXTINF:-1 group-title="WWE",WWE Network (1018210)
 https://api.vpnmate.com/play/?vlc=1&channel=1018210&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
 #EXTINF:-1 group-title="LOCAL NEWS",NBC 12
