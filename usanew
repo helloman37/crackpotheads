@@ -493,6 +493,16 @@ https://nl2.streamlive.to/vlc/3mu6xhoy4xa8l7w/playlist.m3u8?wmsAuthSign=c2VydmVy
 https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1 group-title="24/7",SOUTH PARK
 http://tv.latintvweb.com:25461/rjrincon/te2M9ki4NY/17016
+#EXTINF:-1 group-title="24/7",HOLYWOOD SUITE
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="24/7",HORROR 24/7
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 group-title="24/7",FAMILY GUY
+http://62.210.70.119:80/live.ts?channelId=424&deviceMac=00:1A:79:BE:2F:F6&uid=1615
+#EXTINF:-1 group-title="24/7",SIMPSONS
+http://hhhshop.co:83/3QpVC7EG/U6Daaz7G/268820
+#EXTINF:-1 group-title="24/7",LOONEY TOONS
+http://tvpremiumhd.club/lista-gratuita/153005/tv/live.php?id=2173
 #EXTINF:-1 group-title="WWE",WWE Network (1018210)
 https://api.vpnmate.com/play/?vlc=1&channel=1018210&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
 #EXTINF:-1 group-title="MUSIC",KEEP IT COUNTRY
@@ -599,6 +609,8 @@ http://live.redtraffic.xyz/milf.m3u8
 http://live.redtraffic.xyz/teen.m3u8
 #EXTINF:-1 group-title="XxX CHANNELS",Xpanded TV
 https://vod2t.xxxpanded.com/x3tv2/640/index_640.m3u8
+#EXTINF:-1 group-title="XxX CHANNELS",MOM KNOWS BEST
+http://tv.ultraiptv.org:80/jfakuxop/r603h6tYFg/20205
 #EXTINF:-1 group-title="XxX VOD",Amateure Lesbos
 http://iptv.rent:8080/movie/qno7vdte29/cpkn8vkyoe/49623.mp4
 #EXTINF:-1 group-title="XxX VOD",Elegant Angel
