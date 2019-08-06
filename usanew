@@ -574,9 +574,11 @@ http://tv.sensustv.xdns.pro:80/live/fb2Sense/eoIuYX34/19025.ts
 #EXTINF:-1 group-title="XxX CHANNELS",Canal El Tiempo
 http://tv.latintvweb.com:25461/rjrincon/te2M9ki4NY/120357
 #EXTINF:-1 group-title="XxX CHANNELS",Visit-X
-http://stream.visit-x.tv/vxtv/live/playlist.m3u8?MWINFO
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 #EXTINF:-1 group-title="XxX CHANNELS",Adultos
 http://lowcosttv.org:8880/DarkTV/GRATIS/3482
+#EXTINF:-1 group-title="XxX CHANNELS",Babes
+http://irislinks.net:83/19358405/23383307/356067
 #EXTINF:-1 group-title="XxX VOD",Amateure Lesbos
 http://iptv.rent:8080/movie/qno7vdte29/cpkn8vkyoe/49623.mp4
 #EXTINF:-1 group-title="XxX VOD",Elegant Angel
