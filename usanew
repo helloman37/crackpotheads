@@ -1,4 +1,5 @@
 #EXTM3U
+#My Channels
 #EXTINF:-1 group-title="USA CHANNELS",A&E US (1018515)
 https://api.vpnmate.com/play/?vlc=1&channel=1018515&token=5gZJiWm1Vxhv:YjU4NjU0YjMxNjJiZjUxODU5YTg2ZTZlMmJhNTllYmYwYWE1NjZkOQ==
 #EXTINF:-1 group-title="USA CHANNELS",A&E US (200410)
