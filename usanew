@@ -501,6 +501,18 @@ https://content.uplynk.com/d9e128b50daf4e51b6c3f63d04ca7b33.m3u8?tc=1&exp=156488
 http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8
 #EXTINF:-1 group-title="MUSIC",THE COUNTRY NETWORK
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:-1 group-title="MUSIC",MTV ROCKS
+http://api.vpnmate.com/play/?vlc=1&channel=7000058&token=5gZJiWm1Vxhv:YjU4NjU0YjMxNjJiZjUxODU5YTg2ZTZlMmJhNTllYmYwYWE1NjZkOQ==
+#EXTINF:-1 group-title="MUSIC",MTV OMG
+http://api.vpnmate.com/play/?vlc=1&channel=7000059&token=5gZJiWm1Vxhv:YjU4NjU0YjMxNjJiZjUxODU5YTg2ZTZlMmJhNTllYmYwYWE1NjZkOQ==
+#EXTINF:-1 group-title="MUSIC",MTV BASE
+http://api.vpnmate.com/play/?vlc=1&channel=7000063&token=5gZJiWm1Vxhv:YjU4NjU0YjMxNjJiZjUxODU5YTg2ZTZlMmJhNTllYmYwYWE1NjZkOQ==
+#EXTINF:-1 group-title="MUSIC",MTV CLASSIC
+http://api.vpnmate.com/play/?vlc=1&channel=7000061&token=5gZJiWm1Vxhv:YjU4NjU0YjMxNjJiZjUxODU5YTg2ZTZlMmJhNTllYmYwYWE1NjZkOQ==
+#EXTINF:-1 group-title="MUSIC",MTV CLUB
+http://api.vpnmate.com/play/?vlc=1&channel=7000062&token=5gZJiWm1Vxhv:YjU4NjU0YjMxNjJiZjUxODU5YTg2ZTZlMmJhNTllYmYwYWE1NjZkOQ==
+#EXTINF:-1 group-title="MUSIC",BOX UPFRONT
+http://api.vpnmate.com/play/?vlc=1&channel=7000055&token=5gZJiWm1Vxhv:YjU4NjU0YjMxNjJiZjUxODU5YTg2ZTZlMmJhNTllYmYwYWE1NjZkOQ==
 #EXTINF:-1 group-title="PPV",CINEMA 24
 http://iptv.wtf:25461/feligfra/bkQ5k2r9A2/8529
 #EXTINF:-1 group-title="PPV",CINEMA 12
