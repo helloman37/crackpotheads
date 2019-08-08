@@ -502,8 +502,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u
 http://62.210.70.119:80/live.ts?channelId=424&deviceMac=00:1A:79:BE:2F:F6&uid=1615
 #EXTINF:-1 group-title="24/7",SIMPSONS
 http://hhhshop.co:83/3QpVC7EG/U6Daaz7G/268820
-#EXTINF:-1 group-title="24/7",LOONEY TOONS
-http://tvpremiumhd.club/lista-gratuita/153005/tv/live.php?id=2173
+#EXTINF:-1 group-title="24/7",KITTENS
+http://stitcher.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 group-title="WWE",WWE Network (1018210)
 https://api.vpnmate.com/play/?vlc=1&channel=1018210&token=XXO2KFZn35M9:OWU0NGZkYWU0MTY5ODA0ZDg5Zjc5YzExMTUzMGNhNDc5Y2Q4MGIwMA==
 #EXTINF:-1 group-title="MUSIC",KEEP IT COUNTRY
