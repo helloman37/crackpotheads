@@ -356,8 +356,6 @@ https://api.vpnmate.com/play/?vlc=1&channel=1119407&token=5gZJiWm1Vxhv:YjU4NjU0Y
 https://api.vpnmate.com/play/?vlc=1&channel=1131227&token=5gZJiWm1Vxhv:YjU4NjU0YjMxNjJiZjUxODU5YTg2ZTZlMmJhNTllYmYwYWE1NjZkOQ==
 #EXTINF:-1 group-title="USA CHANNELS",RFD TV (1119495)
 https://api.vpnmate.com/play/?vlc=1&channel=1119495&token=5gZJiWm1Vxhv:YjU4NjU0YjMxNjJiZjUxODU5YTg2ZTZlMmJhNTllYmYwYWE1NjZkOQ==
-#EXTINF:-1 group-title="USA CHANNELS",SKY CINEMA FAMILY
-http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/73898
 #EXTINF:-1 group-title="USA CHANNELS",Science Channel (5002754)
 https://api.vpnmate.com/play/?vlc=1&channel=5002754&token=5gZJiWm1Vxhv:YjU4NjU0YjMxNjJiZjUxODU5YTg2ZTZlMmJhNTllYmYwYWE1NjZkOQ==
 #EXTINF:-1 group-title="USA CHANNELS",Science US (200383)
@@ -552,6 +550,18 @@ http://watch.gotdark.com:80/kelboomh@xs4all.nl/IkloginbijGetDark21/2438
 http://rocksat.ddns.net:25461/wE17OeGqM9/5ABmkVO69C/21621
 #EXTINF:-1 group-title="UFC",UFC PPV
 http://jammy.today:83/live/ByN90XRm/0KBtjG3k/363854.m3u8
+#EXTINF:-1 group-title="SKY CINEMA",FAMILY
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/73898
+#EXTINF:-1 group-title="SKY CINEMA",PREMIER
+http://king-tv.net:8080/emmanuel.asafo/OEojV2DTgv/81887
+#EXTINF:-1 group-title="SKY CINEMA",COMEDY
+http://vtpi.club:27373/k13584/awhhx/20092
+#EXTINF:-1 group-title="SKY CINEMA",THRILLER
+http://iptv.rent:8080/u8ixwo7kyi/6kqn9ryr6j/15718
+#EXTINF:-1 group-title="SKY CINEMA",ACTION
+http://iptv4u.link:25461/knighty1987@googlemail.com/6NLO7zxGfr/18833
+#EXTINF:-1 group-title="SKY CINEMA",HITS
+http://tvservice.pro:80/918438703599/ZsBQbjKcmCcXxQO/33533
 #EXTINF:-1 group-title="XxX CHANNELS",PLAYBOY FULL HD
 http://iptv.rent:8080/jn7pejcive/px3not2pb/19674
 #EXTINF:-1 group-title="XxX CHANNELS",XXX STARS HD
