@@ -356,6 +356,8 @@ https://api.vpnmate.com/play/?vlc=1&channel=1119407&token=5gZJiWm1Vxhv:YjU4NjU0Y
 https://api.vpnmate.com/play/?vlc=1&channel=1131227&token=5gZJiWm1Vxhv:YjU4NjU0YjMxNjJiZjUxODU5YTg2ZTZlMmJhNTllYmYwYWE1NjZkOQ==
 #EXTINF:-1 group-title="USA CHANNELS",RFD TV (1119495)
 https://api.vpnmate.com/play/?vlc=1&channel=1119495&token=5gZJiWm1Vxhv:YjU4NjU0YjMxNjJiZjUxODU5YTg2ZTZlMmJhNTllYmYwYWE1NjZkOQ==
+#EXTINF:-1 group-title="USA CHANNELS",SKY CINEMA FAMILY
+http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/73898
 #EXTINF:-1 group-title="USA CHANNELS",Science Channel (5002754)
 https://api.vpnmate.com/play/?vlc=1&channel=5002754&token=5gZJiWm1Vxhv:YjU4NjU0YjMxNjJiZjUxODU5YTg2ZTZlMmJhNTllYmYwYWE1NjZkOQ==
 #EXTINF:-1 group-title="USA CHANNELS",Science US (200383)
